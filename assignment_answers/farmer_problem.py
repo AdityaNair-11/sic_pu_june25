@@ -6,11 +6,6 @@ potato_sales = (division * 10000) * 20
 cabbage_sales = (division * 14000) * 24
 sunflower_sales = (division * 700) * 200
 sugarcane_sales = (division * 45) * 4000
-print(tomato_sales)
-print(potato_sales)
-print(cabbage_sales)
-print(sunflower_sales)
-print(sugarcane_sales)
 
 overall_sales = tomato_sales + potato_sales + cabbage_sales + sunflower_sales + sugarcane_sales
 
