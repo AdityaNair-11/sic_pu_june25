@@ -1,7 +1,11 @@
 input_number = input('Enter the Number :')
-prime_numbers = str(2357)
 count = 0
+
 for i in str(input_number):
-    if i in prime_numbers:
-        count += 1
-print('The number of Prime Numbers are :',count)
+    fact=0
+    for j in range(1,int(i)+1):
+        if int(i) % j == 0:
+            fact = fact + 1
+    if fact == 2:
+        count = count + 1
+print('The number of Prime Digits in a number =',count)

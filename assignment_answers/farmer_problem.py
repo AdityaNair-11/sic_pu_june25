@@ -13,7 +13,7 @@ print('The overall sales achieved by Mahesh from the 80 acres of land is :',over
 
 #sales realization
 vegetable_sales = tomato_sales + potato_sales + cabbage_sales
-per_month_sugarcane_sales= sugarcane_sales / 4
-sales_realization = vegetable_sales + sunflower_sales + per_month_sugarcane_sales
+
+sales_realization = vegetable_sales 
 print('Sales realisation from chemical-free farming at the end of 11 months', sales_realization)
 
