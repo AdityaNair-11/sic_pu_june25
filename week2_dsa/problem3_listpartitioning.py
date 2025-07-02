@@ -1,17 +1,14 @@
-n, x, y = input('Enter the N, x, y values :').split()
+n, x, y = input('Enter the values for n, x, y :').split()
 n = int(n)
-x = int(x)
+x = int(n)
 y = int(y)
+count=0
 Array = []
-print(f'Enter {n} array elements')
+print('Enter the array elements')
 for i in range(n):
-    elements = int(input())
-    Array.append(elements)
-
-
+    element = int(input())
+    Array.append(element)
 Array.sort()
 print(Array)
-
-count = Array[y] - Array[y] - 1
+count = Array[y] - Array[y-1]-1
 print(count)
-
