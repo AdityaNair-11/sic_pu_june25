@@ -9,9 +9,9 @@ for i in range(n):
     Array.append(elements)
 
 
-Array.sort
+Array.sort()
 print(Array)
-for i in Array:
-    count = Array[x] - Array[y] - 1
+
+count = Array[y] - Array[y] - 1
 print(count)
 
