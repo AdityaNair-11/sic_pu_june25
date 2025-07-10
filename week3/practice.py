@@ -1,14 +1,12 @@
 import numpy as np
-from scipy import stats
 
+vector = np.arange(5)
+print('Vector shape:', vector.shape)
 
-array = np.array([[1, 1, 3, 3, 4, 4, 4, 5, 7, 7, 8, 9, 12]])
+matrix = np.ones([3, 2])
+print('Matrix:', matrix)
+print('Matrix shape:', matrix.shape)
 
-mean   = np.mean(array) # Average
-median = np.median(array) # mid value in the list
-mode   = stats.mode(array) # most most occuring element in the list
-
-print(f'Mean = ', mean)
-print(f'Median = ', median)
-print(f'Mode Occurances = ', mode.count)
-print(f'Mode Count = ', len(mode.count))
+tensor = np.zeros([2, 3, 3])
+print('Tensor:', tensor)
+print("Tensor shape:", tensor.shape)
