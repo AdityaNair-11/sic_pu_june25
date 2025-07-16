@@ -34,6 +34,11 @@ class FlightDataAnalyzer:
         print(busiest[["Sector", "Month", "Passengers"]])
         return busiest
 
+    def get_seasonal_peaks(self):
+        self.df["Month_Num"] = self.df["Month"].dt.month
+        seasonal = self.df.groupby("Month_Num")["Passengers"].sum()
+        return seasonal
+
 class IndiGoAnalyzer:
     def __init__(self, filepath):
         df = pd.read_csv(filepath)
