@@ -1,0 +1,3698 @@
+Month,Airline,Market_Share
+2015-01,Air India,0.16%
+2016-01,Air India,0.14%
+2017-01,Air India,0.10%
+2018-01,Air India,0.03%
+2015-01,Alliance Air,0.00%
+2016-01,Alliance Air,0.00%
+2017-01,Alliance Air,0.00%
+2016-01,Go First,0.00%
+2017-01,Go First,0.00%
+2015-01,Jet Airways,0.02%
+2016-01,Jet Airways,0.03%
+2017-01,Jet Airways,0.04%
+2018-01,Jet Airways,0.03%
+2019-01,Jet Airways,0.04%
+2016-01,JetLite,0.00%
+2017-01,JetLite,0.00%
+2018-01,JetLite,0.00%
+2019-01,JetLite,0.00%
+2017-01,QuikJet Cargo,0.00%
+2015-01,Total Domestic,0.19%
+2016-01,Total Domestic,0.18%
+2017-01,Total Domestic,0.13%
+2018-01,Total Domestic,0.06%
+2019-01,Total Domestic,0.14%
+2020-01,Total Domestic,0.14%
+2021-01,Total Domestic,0.26%
+2022-01,Total Domestic,0.29%
+2023-01,Total Domestic,0.20%
+2024-01,Total Domestic,0.14%
+2025-01,Total Domestic,0.14%
+2021-01,Air India,1.21%
+2022-01,Air India,2.08%
+2021-01,Air India Express,1.24%
+2022-01,Air India Express,1.57%
+2021-01,Blue Dart Aviation,0.00%
+2022-01,Blue Dart Aviation,0.00%
+2021-01,Go First,0.36%
+2022-01,Go First,0.46%
+2021-01,IndiGo,1.06%
+2022-01,IndiGo,2.49%
+2023-01,IndiGo,0.00%
+2024-01,IndiGo,0.00%
+2025-01,IndiGo,0.00%
+2015-01,Jet Airways,0.00%
+2016-01,Jet Airways,0.00%
+2017-01,Jet Airways,0.00%
+2019-01,Jet Airways,0.00%
+2019-01,SpiceJet,0.00%
+2021-01,SpiceJet,0.57%
+2022-01,SpiceJet,0.69%
+2023-01,SpiceJet,0.02%
+2024-01,SpiceJet,0.00%
+2016-01,Total International,0.00%
+2017-01,Total International,0.00%
+2018-01,Total International,0.00%
+2021-01,Total International,4.51%
+2022-01,Total International,7.65%
+2023-01,Total International,0.02%
+2024-01,Total International,0.00%
+2025-01,Total International,0.00%
+2021-01,Vistara,0.07%
+2022-01,Vistara,0.32%
+2024-01,AIX Connect,2.52%
+2017-01,Air Carnival,0.05%
+2015-01,Air Costa,0.41%
+2016-01,Air Costa,0.31%
+2017-01,Air Costa,0.19%
+2018-01,Air Deccan,0.00%
+2020-01,Air Deccan,0.00%
+2019-01,Air Heritage,0.00%
+2020-01,Air Heritage,0.00%
+2015-01,Air India,6.99%
+2016-01,Air India,6.19%
+2017-01,Air India,5.53%
+2018-01,Air India,4.99%
+2019-01,Air India,4.89%
+2020-01,Air India,4.26%
+2021-01,Air India,3.95%
+2022-01,Air India,4.30%
+2023-01,Air India,3.87%
+2024-01,Air India,4.20%
+2025-01,Air India,6.75%
+2015-01,Air India Express,0.09%
+2016-01,Air India Express,0.05%
+2017-01,Air India Express,0.04%
+2018-01,Air India Express,0.06%
+2019-01,Air India Express,0.07%
+2020-01,Air India Express,0.05%
+2021-01,Air India Express,0.02%
+2022-01,Air India Express,0.02%
+2024-01,Air India Express,0.82%
+2025-01,Air India Express,3.72%
+2016-01,Air Pegasus,0.13%
+2021-01,Air Taxi,0.00%
+2015-01,AirAsia India,0.52%
+2016-01,AirAsia India,0.94%
+2018-01,AirAsia India,1.78%
+2019-01,AirAsia India,2.42%
+2020-01,AirAsia India,2.92%
+2021-01,AirAsia India,3.12%
+2022-01,AirAsia India,1.94%
+2023-01,AirAsia India,3.11%
+2023-01,Akasa Air,1.19%
+2024-01,Akasa Air,1.87%
+2025-01,Akasa Air,1.91%
+2015-01,Alliance Air,0.12%
+2016-01,Alliance Air,0.16%
+2017-01,Alliance Air,0.23%
+2018-01,Alliance Air,0.49%
+2019-01,Alliance Air,0.50%
+2020-01,Alliance Air,0.47%
+2021-01,Alliance Air,0.54%
+2022-01,Alliance Air,0.52%
+2023-01,Alliance Air,0.51%
+2024-01,Alliance Air,0.42%
+2025-01,Alliance Air,0.25%
+2016-01,Blue Dart Aviation,0.00%
+2017-01,Blue Dart Aviation,0.00%
+2018-01,Blue Dart Aviation,0.00%
+2019-01,Blue Dart Aviation,0.00%
+2020-01,Blue Dart Aviation,0.00%
+2021-01,Blue Dart Aviation,0.00%
+2022-01,Blue Dart Aviation,0.00%
+2023-01,Blue Dart Aviation,0.00%
+2024-01,Blue Dart Aviation,0.00%
+2025-01,Blue Dart Aviation,0.00%
+2025-01,Fly91,0.06%
+2021-01,Flybig,0.01%
+2022-01,Flybig,0.05%
+2023-01,Flybig,0.07%
+2024-01,Flybig,0.00%
+2025-01,Flybig,0.00%
+2015-01,Go First,3.50%
+2016-01,Go First,3.31%
+2017-01,Go First,3.45%
+2018-01,Go First,3.99%
+2019-01,Go First,3.95%
+2020-01,Go First,4.13%
+2021-01,Go First,3.72%
+2022-01,Go First,4.17%
+2023-01,Go First,3.53%
+2015-01,IndiGo,14.40%
+2016-01,IndiGo,14.58%
+2017-01,IndiGo,16.66%
+2018-01,IndiGo,16.62%
+2019-01,IndiGo,19.34%
+2020-01,IndiGo,20.26%
+2021-01,IndiGo,24.67%
+2022-01,IndiGo,23.34%
+2023-01,IndiGo,22.93%
+2024-01,IndiGo,24.86%
+2025-01,IndiGo,26.79%
+2023-01,India One Air,0.00%
+2024-01,India One Air,0.01%
+2025-01,India One Air,0.01%
+2015-01,Jet Airways,7.73%
+2016-01,Jet Airways,7.63%
+2017-01,Jet Airways,6.45%
+2018-01,Jet Airways,5.94%
+2019-01,Jet Airways,5.39%
+2015-01,JetLite,1.76%
+2016-01,JetLite,1.10%
+2017-01,JetLite,1.05%
+2018-01,JetLite,0.96%
+2019-01,JetLite,0.78%
+2020-01,Pawan Hans,0.00%
+2021-01,Pawan Hans,0.00%
+2017-01,QuikJet Cargo,0.00%
+2023-01,QuikJet Cargo,0.00%
+2024-01,QuikJet Cargo,0.00%
+2025-01,QuikJet Cargo,0.00%
+2015-01,SpiceJet,3.71%
+2016-01,SpiceJet,5.41%
+2017-01,SpiceJet,5.38%
+2018-01,SpiceJet,5.28%
+2019-01,SpiceJet,6.05%
+2020-01,SpiceJet,7.03%
+2021-01,SpiceJet,5.82%
+2022-01,SpiceJet,4.46%
+2023-01,SpiceJet,3.06%
+2024-01,SpiceJet,2.33%
+2025-01,SpiceJet,1.30%
+2019-01,Star Air,0.00%
+2020-01,Star Air,0.04%
+2021-01,Star Air,0.09%
+2022-01,Star Air,0.10%
+2023-01,Star Air,0.05%
+2024-01,Star Air,0.15%
+2025-01,Star Air,0.18%
+2015-01,Total Domestic,39.32%
+2016-01,Total Domestic,40.76%
+2017-01,Total Domestic,41.76%
+2018-01,Total Domestic,41.75%
+2019-01,Total Domestic,45.32%
+2020-01,Total Domestic,42.21%
+2021-01,Total Domestic,45.23%
+2022-01,Total Domestic,42.08%
+2023-01,Total Domestic,42.03%
+2024-01,Total Domestic,41.28%
+2025-01,Total Domestic,40.97%
+2016-01,TruJet,0.16%
+2017-01,TruJet,0.14%
+2018-01,TruJet,0.12%
+2019-01,TruJet,0.21%
+2020-01,TruJet,0.29%
+2021-01,TruJet,0.26%
+2022-01,TruJet,0.04%
+2015-01,Vistara,0.09%
+2016-01,Vistara,0.80%
+2017-01,Vistara,1.33%
+2018-01,Vistara,1.49%
+2019-01,Vistara,1.71%
+2020-01,Vistara,2.75%
+2021-01,Vistara,3.02%
+2022-01,Vistara,3.14%
+2023-01,Vistara,3.70%
+2024-01,Vistara,4.10%
+2018-01,Zoom Air,0.01%
+2024-01,AIX Connect,0.00%
+2015-01,Air India,3.41%
+2016-01,Air India,2.92%
+2017-01,Air India,2.40%
+2018-01,Air India,2.16%
+2019-01,Air India,2.27%
+2019-01,Air India,0.11%
+2020-01,Air India,2.26%
+2020-01,Air India,0.11%
+2021-01,Air India,0.17%
+2022-01,Air India,0.20%
+2023-01,Air India,2.18%
+2024-01,Air India,2.52%
+2024-01,Air India,0.04%
+2025-01,Air India,2.85%
+2025-01,Air India,0.06%
+2015-01,Air India Express,1.34%
+2016-01,Air India Express,1.23%
+2017-01,Air India Express,1.38%
+2018-01,Air India Express,1.23%
+2019-01,Air India Express,1.46%
+2020-01,Air India Express,1.46%
+2023-01,Air India Express,1.33%
+2024-01,Air India Express,1.46%
+2024-01,Air India Express,0.00%
+2025-01,Air India Express,1.69%
+2025-01,Air India Express,0.05%
+2021-01,AirAsia India,0.04%
+2022-01,AirAsia India,0.03%
+2023-01,AirAsia India,0.00%
+2023-01,Akasa Air,0.00%
+2024-01,Akasa Air,0.00%
+2025-01,Akasa Air,0.13%
+2025-01,Akasa Air,0.00%
+2020-01,Alliance Air,0.00%
+2023-01,Alliance Air,0.01%
+2023-01,Alliance Air,0.00%
+2024-01,Alliance Air,0.01%
+2024-01,Alliance Air,0.00%
+2020-01,Blue Dart Aviation,0.00%
+2021-01,Blue Dart Aviation,0.00%
+2022-01,Blue Dart Aviation,0.00%
+2023-01,Blue Dart Aviation,0.00%
+2024-01,Blue Dart Aviation,0.00%
+2025-01,Blue Dart Aviation,0.00%
+2019-01,Go First,0.10%
+2020-01,Go First,0.41%
+2020-01,Go First,0.00%
+2023-01,Go First,0.42%
+2023-01,Go First,0.09%
+2015-01,IndiGo,0.90%
+2016-01,IndiGo,0.75%
+2016-01,IndiGo,0.00%
+2017-01,IndiGo,0.84%
+2017-01,IndiGo,0.00%
+2018-01,IndiGo,1.17%
+2019-01,IndiGo,1.81%
+2020-01,IndiGo,2.49%
+2020-01,IndiGo,0.02%
+2021-01,IndiGo,0.04%
+2022-01,IndiGo,0.02%
+2023-01,IndiGo,2.74%
+2023-01,IndiGo,0.09%
+2024-01,IndiGo,3.26%
+2024-01,IndiGo,0.08%
+2025-01,IndiGo,3.87%
+2025-01,IndiGo,0.01%
+2023-01,India One Air,0.00%
+2024-01,India One Air,0.00%
+2015-01,Jet Airways,4.34%
+2016-01,Jet Airways,3.51%
+2017-01,Jet Airways,3.44%
+2018-01,Jet Airways,2.96%
+2019-01,Jet Airways,2.66%
+2024-01,QuikJet Cargo,0.00%
+2015-01,SpiceJet,0.51%
+2016-01,SpiceJet,0.66%
+2017-01,SpiceJet,0.67%
+2017-01,SpiceJet,0.00%
+2018-01,SpiceJet,0.68%
+2019-01,SpiceJet,0.77%
+2019-01,SpiceJet,0.00%
+2020-01,SpiceJet,0.92%
+2020-01,SpiceJet,0.01%
+2021-01,SpiceJet,0.01%
+2022-01,SpiceJet,0.03%
+2023-01,SpiceJet,0.59%
+2023-01,SpiceJet,0.02%
+2024-01,SpiceJet,0.58%
+2024-01,SpiceJet,0.01%
+2025-01,SpiceJet,0.35%
+2025-01,SpiceJet,0.01%
+2015-01,Total International,10.49%
+2016-01,Total International,9.06%
+2017-01,Total International,8.74%
+2018-01,Total International,8.19%
+2020-01,Total International,7.65%
+2023-01,Total International,7.75%
+2024-01,Total International,8.58%
+2025-01,Total International,8.90%
+2020-01,Vistara,0.12%
+2021-01,Vistara,0.00%
+2022-01,Vistara,0.00%
+2023-01,Vistara,0.49%
+2023-01,Vistara,0.00%
+2024-01,Vistara,0.75%
+2024-01,Vistara,0.00%
+2015-02,Air India,0.17%
+2016-02,Air India,0.14%
+2017-02,Air India,0.14%
+2018-02,Air India,0.06%
+2015-02,Alliance Air,0.00%
+2016-02,Alliance Air,0.00%
+2017-02,Alliance Air,0.00%
+2016-02,Go First,0.01%
+2017-02,Go First,0.00%
+2015-02,Jet Airways,0.02%
+2016-02,Jet Airways,0.04%
+2017-02,Jet Airways,0.04%
+2018-02,Jet Airways,0.04%
+2019-02,Jet Airways,0.01%
+2016-02,JetLite,0.00%
+2017-02,JetLite,0.00%
+2018-02,JetLite,0.00%
+2019-02,JetLite,0.00%
+2017-02,QuikJet Cargo,0.00%
+2015-02,Total Domestic,0.19%
+2016-02,Total Domestic,0.19%
+2017-02,Total Domestic,0.19%
+2018-02,Total Domestic,0.10%
+2019-02,Total Domestic,0.11%
+2020-02,Total Domestic,0.15%
+2021-02,Total Domestic,0.27%
+2022-02,Total Domestic,0.26%
+2023-02,Total Domestic,0.22%
+2024-02,Total Domestic,0.15%
+2025-02,Total Domestic,0.16%
+2018-02,Vistara,0.00%
+2021-02,Air India,1.23%
+2022-02,Air India,1.84%
+2021-02,Air India Express,1.06%
+2022-02,Air India Express,1.24%
+2022-02,AirAsia India,0.00%
+2021-02,Blue Dart Aviation,0.00%
+2022-02,Blue Dart Aviation,0.00%
+2021-02,Go First,0.32%
+2022-02,Go First,0.33%
+2023-02,Go First,0.00%
+2021-02,IndiGo,1.07%
+2022-02,IndiGo,2.05%
+2023-02,IndiGo,0.00%
+2024-02,IndiGo,0.00%
+2025-02,IndiGo,0.00%
+2015-02,Jet Airways,0.00%
+2016-02,Jet Airways,0.00%
+2017-02,Jet Airways,0.00%
+2018-02,Jet Airways,0.00%
+2019-02,Jet Airways,0.00%
+2025-02,QuikJet Cargo,0.00%
+2019-02,SpiceJet,0.00%
+2021-02,SpiceJet,0.48%
+2022-02,SpiceJet,0.50%
+2023-02,SpiceJet,0.00%
+2024-02,SpiceJet,0.00%
+2025-02,SpiceJet,0.00%
+2016-02,Total International,0.00%
+2017-02,Total International,0.00%
+2018-02,Total International,0.00%
+2021-02,Total International,4.26%
+2022-02,Total International,6.27%
+2023-02,Total International,0.01%
+2024-02,Total International,0.00%
+2025-02,Total International,0.00%
+2021-02,Vistara,0.09%
+2022-02,Vistara,0.27%
+2024-02,AIX Connect,2.52%
+2017-02,Air Carnival,0.07%
+2015-02,Air Costa,0.41%
+2016-02,Air Costa,0.32%
+2017-02,Air Costa,0.20%
+2018-02,Air Deccan,0.00%
+2019-02,Air Heritage,0.00%
+2020-02,Air Heritage,0.00%
+2015-02,Air India,6.78%
+2016-02,Air India,6.05%
+2017-02,Air India,5.31%
+2018-02,Air India,4.97%
+2019-02,Air India,5.18%
+2020-02,Air India,4.49%
+2021-02,Air India,4.59%
+2022-02,Air India,4.83%
+2023-02,Air India,3.77%
+2024-02,Air India,4.37%
+2025-02,Air India,7.06%
+2015-02,Air India Express,0.08%
+2016-02,Air India Express,0.04%
+2017-02,Air India Express,0.03%
+2018-02,Air India Express,0.07%
+2019-02,Air India Express,0.06%
+2020-02,Air India Express,0.05%
+2021-02,Air India Express,0.01%
+2024-02,Air India Express,0.93%
+2025-02,Air India Express,4.18%
+2018-02,Air Odisha,0.00%
+2016-02,Air Pegasus,0.11%
+2021-02,Air Taxi,0.00%
+2015-02,AirAsia India,0.49%
+2016-02,AirAsia India,0.93%
+2018-02,AirAsia India,1.80%
+2019-02,AirAsia India,2.35%
+2020-02,AirAsia India,3.13%
+2021-02,AirAsia India,3.04%
+2022-02,AirAsia India,2.52%
+2023-02,AirAsia India,2.97%
+2023-02,Akasa Air,1.27%
+2024-02,Akasa Air,1.86%
+2025-02,Akasa Air,1.93%
+2015-02,Alliance Air,0.15%
+2016-02,Alliance Air,0.20%
+2017-02,Alliance Air,0.25%
+2018-02,Alliance Air,0.52%
+2019-02,Alliance Air,0.51%
+2020-02,Alliance Air,0.51%
+2021-02,Alliance Air,0.56%
+2022-02,Alliance Air,0.63%
+2023-02,Alliance Air,0.47%
+2024-02,Alliance Air,0.42%
+2025-02,Alliance Air,0.25%
+2016-02,Blue Dart Aviation,0.00%
+2017-02,Blue Dart Aviation,0.00%
+2018-02,Blue Dart Aviation,0.00%
+2019-02,Blue Dart Aviation,0.00%
+2020-02,Blue Dart Aviation,0.00%
+2021-02,Blue Dart Aviation,0.00%
+2022-02,Blue Dart Aviation,0.00%
+2023-02,Blue Dart Aviation,0.00%
+2024-02,Blue Dart Aviation,0.00%
+2025-02,Blue Dart Aviation,0.00%
+2025-02,Fly91,0.03%
+2021-02,Flybig,0.02%
+2022-02,Flybig,0.06%
+2023-02,Flybig,0.06%
+2024-02,Flybig,0.00%
+2025-02,Flybig,0.00%
+2015-02,Go First,3.59%
+2016-02,Go First,3.32%
+2017-02,Go First,3.67%
+2018-02,Go First,4.03%
+2019-02,Go First,4.14%
+2020-02,Go First,4.30%
+2021-02,Go First,3.39%
+2022-02,Go First,4.15%
+2023-02,Go First,3.38%
+2015-02,IndiGo,14.98%
+2016-02,IndiGo,15.35%
+2017-02,IndiGo,16.74%
+2018-02,IndiGo,16.93%
+2019-02,IndiGo,19.86%
+2020-02,IndiGo,20.73%
+2021-02,IndiGo,24.72%
+2022-02,IndiGo,22.33%
+2023-02,IndiGo,23.63%
+2024-02,IndiGo,24.94%
+2025-02,IndiGo,26.46%
+2023-02,India One Air,0.01%
+2024-02,India One Air,0.01%
+2025-02,India One Air,0.01%
+2015-02,Jet Airways,7.97%
+2016-02,Jet Airways,7.61%
+2017-02,Jet Airways,6.65%
+2018-02,Jet Airways,6.17%
+2019-02,Jet Airways,4.55%
+2015-02,JetLite,1.83%
+2016-02,JetLite,1.15%
+2017-02,JetLite,1.05%
+2018-02,JetLite,0.91%
+2019-02,JetLite,0.64%
+2020-02,Pawan Hans,0.00%
+2021-02,Pawan Hans,0.00%
+2017-02,QuikJet Cargo,0.00%
+2023-02,QuikJet Cargo,0.00%
+2024-02,QuikJet Cargo,0.00%
+2025-02,QuikJet Cargo,0.00%
+2015-02,SpiceJet,3.71%
+2016-02,SpiceJet,5.44%
+2017-02,SpiceJet,5.54%
+2018-02,SpiceJet,5.26%
+2019-02,SpiceJet,6.27%
+2020-02,SpiceJet,6.61%
+2021-02,SpiceJet,5.61%
+2022-02,SpiceJet,4.64%
+2023-02,SpiceJet,3.01%
+2024-02,SpiceJet,2.16%
+2025-02,SpiceJet,1.33%
+2019-02,Star Air,0.01%
+2020-02,Star Air,0.04%
+2021-02,Star Air,0.10%
+2022-02,Star Air,0.10%
+2023-02,Star Air,0.05%
+2024-02,Star Air,0.15%
+2025-02,Star Air,0.18%
+2015-02,Total Domestic,40.22%
+2016-02,Total Domestic,41.48%
+2017-02,Total Domestic,42.19%
+2018-02,Total Domestic,42.31%
+2019-02,Total Domestic,45.60%
+2020-02,Total Domestic,43.09%
+2021-02,Total Domestic,45.47%
+2022-02,Total Domestic,43.49%
+2023-02,Total Domestic,42.30%
+2024-02,Total Domestic,41.50%
+2025-02,Total Domestic,41.44%
+2016-02,TruJet,0.14%
+2017-02,TruJet,0.19%
+2018-02,TruJet,0.12%
+2019-02,TruJet,0.21%
+2020-02,TruJet,0.32%
+2021-02,TruJet,0.28%
+2022-02,TruJet,0.01%
+2015-02,Vistara,0.22%
+2016-02,Vistara,0.83%
+2017-02,Vistara,1.32%
+2018-02,Vistara,1.52%
+2019-02,Vistara,1.82%
+2020-02,Vistara,2.91%
+2021-02,Vistara,3.15%
+2022-02,Vistara,4.23%
+2023-02,Vistara,3.69%
+2024-02,Vistara,4.12%
+2017-02,Zoom Air,0.01%
+2018-02,Zoom Air,0.01%
+2024-02,AIX Connect,0.00%
+2015-02,Air India,3.11%
+2016-02,Air India,2.59%
+2017-02,Air India,2.33%
+2018-02,Air India,2.03%
+2019-02,Air India,2.24%
+2019-02,Air India,0.10%
+2020-02,Air India,2.07%
+2020-02,Air India,0.13%
+2021-02,Air India,0.19%
+2022-02,Air India,0.17%
+2023-02,Air India,2.10%
+2024-02,Air India,2.49%
+2024-02,Air India,0.05%
+2025-02,Air India,2.80%
+2025-02,Air India,0.06%
+2015-02,Air India Express,1.24%
+2016-02,Air India Express,1.12%
+2017-02,Air India Express,1.30%
+2018-02,Air India Express,1.13%
+2019-02,Air India Express,1.39%
+2020-02,Air India Express,1.31%
+2023-02,Air India Express,1.24%
+2024-02,Air India Express,1.42%
+2025-02,Air India Express,1.49%
+2025-02,Air India Express,0.05%
+2021-02,AirAsia India,0.04%
+2022-02,AirAsia India,0.04%
+2023-02,AirAsia India,0.00%
+2023-02,Akasa Air,0.00%
+2024-02,Akasa Air,0.00%
+2025-02,Akasa Air,0.12%
+2025-02,Akasa Air,0.00%
+2020-02,Alliance Air,0.00%
+2023-02,Alliance Air,0.01%
+2023-02,Alliance Air,0.01%
+2024-02,Alliance Air,0.01%
+2024-02,Alliance Air,0.00%
+2021-02,Blue Dart Aviation,0.00%
+2022-02,Blue Dart Aviation,0.00%
+2023-02,Blue Dart Aviation,0.00%
+2024-02,Blue Dart Aviation,0.00%
+2025-02,Blue Dart Aviation,0.00%
+2019-02,Go First,0.09%
+2020-02,Go First,0.28%
+2020-02,Go First,0.00%
+2022-02,Go First,0.00%
+2023-02,Go First,0.40%
+2023-02,Go First,0.10%
+2015-02,IndiGo,0.80%
+2016-02,IndiGo,0.75%
+2016-02,IndiGo,0.00%
+2017-02,IndiGo,0.82%
+2017-02,IndiGo,0.00%
+2018-02,IndiGo,1.12%
+2019-02,IndiGo,1.76%
+2020-02,IndiGo,2.17%
+2020-02,IndiGo,0.02%
+2021-02,IndiGo,0.04%
+2022-02,IndiGo,0.02%
+2023-02,IndiGo,2.67%
+2023-02,IndiGo,0.09%
+2024-02,IndiGo,3.17%
+2024-02,IndiGo,0.08%
+2025-02,IndiGo,3.67%
+2025-02,IndiGo,0.04%
+2024-02,India One Air,0.00%
+2015-02,Jet Airways,3.93%
+2016-02,Jet Airways,3.17%
+2017-02,Jet Airways,3.10%
+2018-02,Jet Airways,2.67%
+2019-02,Jet Airways,2.39%
+2024-02,QuikJet Cargo,0.00%
+2025-02,QuikJet Cargo,0.00%
+2015-02,SpiceJet,0.50%
+2016-02,SpiceJet,0.70%
+2017-02,SpiceJet,0.66%
+2017-02,SpiceJet,0.00%
+2018-02,SpiceJet,0.64%
+2019-02,SpiceJet,0.70%
+2019-02,SpiceJet,0.00%
+2020-02,SpiceJet,0.82%
+2020-02,SpiceJet,0.00%
+2021-02,SpiceJet,0.01%
+2022-02,SpiceJet,0.03%
+2023-02,SpiceJet,0.56%
+2023-02,SpiceJet,0.02%
+2024-02,SpiceJet,0.50%
+2024-02,SpiceJet,0.02%
+2025-02,SpiceJet,0.32%
+2025-02,SpiceJet,0.01%
+2015-02,Total International,9.59%
+2016-02,Total International,8.33%
+2017-02,Total International,8.20%
+2018-02,Total International,7.60%
+2020-02,Total International,6.76%
+2023-02,Total International,7.48%
+2024-02,Total International,8.35%
+2025-02,Total International,8.40%
+2020-02,Vistara,0.11%
+2021-02,Vistara,0.00%
+2023-02,Vistara,0.49%
+2023-02,Vistara,0.00%
+2024-02,Vistara,0.76%
+2024-02,Vistara,0.00%
+2015-03,Air India,0.19%
+2016-03,Air India,0.16%
+2017-03,Air India,0.13%
+2018-03,Air India,0.09%
+2015-03,Alliance Air,0.00%
+2016-03,Alliance Air,0.00%
+2017-03,Alliance Air,0.00%
+2016-03,Go First,0.00%
+2017-03,Go First,0.00%
+2015-03,Jet Airways,0.02%
+2016-03,Jet Airways,0.04%
+2017-03,Jet Airways,0.04%
+2018-03,Jet Airways,0.04%
+2019-03,Jet Airways,0.03%
+2016-03,JetLite,0.00%
+2017-03,JetLite,0.00%
+2018-03,JetLite,0.00%
+2019-03,JetLite,0.00%
+2017-03,QuikJet Cargo,0.00%
+2015-03,Total Domestic,0.22%
+2016-03,Total Domestic,0.20%
+2017-03,Total Domestic,0.18%
+2018-03,Total Domestic,0.13%
+2019-03,Total Domestic,0.15%
+2020-03,Total Domestic,0.18%
+2021-03,Total Domestic,0.27%
+2022-03,Total Domestic,0.22%
+2023-03,Total Domestic,0.20%
+2024-03,Total Domestic,0.17%
+2025-03,Total Domestic,0.15%
+2018-03,Vistara,0.00%
+2021-03,Air India,1.35%
+2022-03,Air India,1.65%
+2021-03,Air India Express,1.22%
+2022-03,Air India Express,1.30%
+2022-03,AirAsia India,0.00%
+2021-03,Blue Dart Aviation,0.00%
+2022-03,Blue Dart Aviation,0.00%
+2021-03,Go First,0.30%
+2022-03,Go First,0.35%
+2023-03,Go First,0.00%
+2021-03,IndiGo,1.22%
+2022-03,IndiGo,1.88%
+2024-03,IndiGo,0.00%
+2025-03,IndiGo,0.00%
+2015-03,Jet Airways,0.00%
+2016-03,Jet Airways,0.00%
+2017-03,Jet Airways,0.00%
+2018-03,Jet Airways,0.00%
+2019-03,Jet Airways,0.00%
+2024-03,QuikJet Cargo,0.00%
+2019-03,SpiceJet,0.00%
+2021-03,SpiceJet,0.50%
+2022-03,SpiceJet,0.41%
+2023-03,SpiceJet,0.00%
+2024-03,SpiceJet,0.00%
+2025-03,SpiceJet,0.00%
+2016-03,Total International,0.00%
+2017-03,Total International,0.00%
+2018-03,Total International,0.00%
+2021-03,Total International,4.71%
+2022-03,Total International,5.90%
+2023-03,Total International,0.00%
+2024-03,Total International,0.00%
+2025-03,Total International,0.00%
+2021-03,Vistara,0.11%
+2022-03,Vistara,0.27%
+2024-03,AIX Connect,2.39%
+2017-03,Air Carnival,0.06%
+2015-03,Air Costa,0.40%
+2016-03,Air Costa,0.29%
+2018-03,Air Deccan,0.00%
+2020-03,Air Heritage,0.00%
+2015-03,Air India,6.37%
+2016-03,Air India,5.71%
+2017-03,Air India,5.07%
+2018-03,Air India,4.98%
+2019-03,Air India,5.32%
+2020-03,Air India,4.16%
+2021-03,Air India,4.54%
+2022-03,Air India,3.83%
+2023-03,Air India,3.73%
+2024-03,Air India,4.38%
+2025-03,Air India,6.58%
+2015-03,Air India Express,0.05%
+2016-03,Air India Express,0.04%
+2017-03,Air India Express,0.02%
+2018-03,Air India Express,0.07%
+2019-03,Air India Express,0.05%
+2020-03,Air India Express,0.06%
+2021-03,Air India Express,0.00%
+2022-03,Air India Express,0.00%
+2024-03,Air India Express,1.05%
+2025-03,Air India Express,4.50%
+2018-03,Air Odisha,0.00%
+2016-03,Air Pegasus,0.08%
+2021-03,Air Taxi,0.00%
+2015-03,AirAsia India,0.44%
+2016-03,AirAsia India,0.93%
+2018-03,AirAsia India,1.91%
+2019-03,AirAsia India,2.71%
+2020-03,AirAsia India,3.41%
+2021-03,AirAsia India,3.13%
+2022-03,AirAsia India,2.86%
+2023-03,AirAsia India,3.19%
+2023-03,Akasa Air,1.37%
+2024-03,Akasa Air,1.83%
+2025-03,Akasa Air,2.05%
+2015-03,Alliance Air,0.16%
+2016-03,Alliance Air,0.20%
+2017-03,Alliance Air,0.26%
+2018-03,Alliance Air,0.52%
+2019-03,Alliance Air,0.51%
+2020-03,Alliance Air,0.48%
+2021-03,Alliance Air,0.55%
+2022-03,Alliance Air,0.59%
+2023-03,Alliance Air,0.44%
+2024-03,Alliance Air,0.44%
+2025-03,Alliance Air,0.22%
+2016-03,Blue Dart Aviation,0.00%
+2017-03,Blue Dart Aviation,0.00%
+2018-03,Blue Dart Aviation,0.00%
+2019-03,Blue Dart Aviation,0.00%
+2020-03,Blue Dart Aviation,0.00%
+2021-03,Blue Dart Aviation,0.00%
+2022-03,Blue Dart Aviation,0.00%
+2023-03,Blue Dart Aviation,0.00%
+2024-03,Blue Dart Aviation,0.00%
+2025-03,Blue Dart Aviation,0.00%
+2024-03,Fly91,0.00%
+2025-03,Fly91,0.04%
+2021-03,Flybig,0.02%
+2022-03,Flybig,0.05%
+2023-03,Flybig,0.05%
+2024-03,Flybig,0.00%
+2025-03,Flybig,0.00%
+2015-03,Go First,3.52%
+2016-03,Go First,3.45%
+2017-03,Go First,3.73%
+2018-03,Go First,3.79%
+2019-03,Go First,4.54%
+2020-03,Go First,4.42%
+2021-03,Go First,3.54%
+2022-03,Go First,4.27%
+2023-03,Go First,2.93%
+2015-03,IndiGo,14.62%
+2016-03,IndiGo,15.89%
+2017-03,IndiGo,16.79%
+2018-03,IndiGo,16.68%
+2019-03,IndiGo,21.51%
+2020-03,IndiGo,21.85%
+2021-03,IndiGo,24.20%
+2022-03,IndiGo,23.65%
+2023-03,IndiGo,23.94%
+2024-03,IndiGo,25.11%
+2025-03,IndiGo,26.59%
+2023-03,India One Air,0.01%
+2024-03,India One Air,0.01%
+2025-03,India One Air,0.01%
+2015-03,Jet Airways,8.29%
+2016-03,Jet Airways,7.26%
+2017-03,Jet Airways,6.46%
+2018-03,Jet Airways,6.32%
+2019-03,Jet Airways,2.09%
+2015-03,JetLite,1.88%
+2016-03,JetLite,1.08%
+2017-03,JetLite,1.07%
+2018-03,JetLite,0.67%
+2019-03,JetLite,0.53%
+2020-03,Pawan Hans,0.00%
+2021-03,Pawan Hans,0.00%
+2017-03,QuikJet Cargo,0.00%
+2023-03,QuikJet Cargo,0.00%
+2024-03,QuikJet Cargo,0.00%
+2025-03,QuikJet Cargo,0.00%
+2015-03,SpiceJet,3.89%
+2016-03,SpiceJet,5.29%
+2017-03,SpiceJet,5.55%
+2018-03,SpiceJet,5.37%
+2019-03,SpiceJet,6.25%
+2020-03,SpiceJet,7.17%
+2021-03,SpiceJet,5.80%
+2022-03,SpiceJet,4.17%
+2023-03,SpiceJet,2.71%
+2024-03,SpiceJet,2.18%
+2025-03,SpiceJet,1.37%
+2019-03,Star Air,0.02%
+2020-03,Star Air,0.05%
+2021-03,Star Air,0.11%
+2022-03,Star Air,0.09%
+2023-03,Star Air,0.06%
+2024-03,Star Air,0.13%
+2025-03,Star Air,0.17%
+2015-03,Total Domestic,39.97%
+2016-03,Total Domestic,41.18%
+2017-03,Total Domestic,41.89%
+2018-03,Total Domestic,42.07%
+2019-03,Total Domestic,45.69%
+2020-03,Total Domestic,44.56%
+2021-03,Total Domestic,45.02%
+2022-03,Total Domestic,43.43%
+2023-03,Total Domestic,42.18%
+2024-03,Total Domestic,41.52%
+2025-03,Total Domestic,41.54%
+2016-03,TruJet,0.15%
+2017-03,TruJet,0.19%
+2018-03,TruJet,0.16%
+2019-03,TruJet,0.21%
+2020-03,TruJet,0.33%
+2021-03,TruJet,0.25%
+2015-03,Vistara,0.34%
+2016-03,Vistara,0.83%
+2017-03,Vistara,1.36%
+2018-03,Vistara,1.61%
+2019-03,Vistara,1.94%
+2020-03,Vistara,2.63%
+2021-03,Vistara,2.89%
+2022-03,Vistara,3.91%
+2023-03,Vistara,3.76%
+2024-03,Vistara,3.99%
+2017-03,Zoom Air,0.01%
+2018-03,Zoom Air,0.00%
+2024-03,AIX Connect,0.00%
+2015-03,Air India,3.17%
+2016-03,Air India,2.62%
+2017-03,Air India,2.44%
+2018-03,Air India,2.14%
+2019-03,Air India,2.34%
+2019-03,Air India,0.12%
+2020-03,Air India,1.69%
+2020-03,Air India,0.15%
+2021-03,Air India,0.20%
+2022-03,Air India,0.14%
+2023-03,Air India,2.17%
+2024-03,Air India,2.44%
+2024-03,Air India,0.08%
+2025-03,Air India,2.76%
+2025-03,Air India,0.04%
+2015-03,Air India Express,1.26%
+2016-03,Air India Express,1.18%
+2017-03,Air India Express,1.42%
+2018-03,Air India Express,1.20%
+2019-03,Air India Express,1.53%
+2020-03,Air India Express,1.16%
+2023-03,Air India Express,1.21%
+2024-03,Air India Express,1.42%
+2024-03,Air India Express,0.00%
+2025-03,Air India Express,1.42%
+2025-03,Air India Express,0.06%
+2021-03,AirAsia India,0.04%
+2022-03,AirAsia India,0.04%
+2023-03,AirAsia India,0.00%
+2023-03,Akasa Air,0.00%
+2024-03,Akasa Air,0.00%
+2024-03,Akasa Air,0.00%
+2025-03,Akasa Air,0.13%
+2025-03,Akasa Air,0.00%
+2020-03,Alliance Air,0.00%
+2023-03,Alliance Air,0.01%
+2023-03,Alliance Air,0.00%
+2024-03,Alliance Air,0.01%
+2024-03,Alliance Air,0.00%
+2020-03,Blue Dart Aviation,0.00%
+2021-03,Blue Dart Aviation,0.00%
+2022-03,Blue Dart Aviation,0.00%
+2023-03,Blue Dart Aviation,0.00%
+2024-03,Blue Dart Aviation,0.00%
+2025-03,Blue Dart Aviation,0.00%
+2019-03,Go First,0.16%
+2020-03,Go First,0.17%
+2020-03,Go First,0.00%
+2021-03,Go First,0.00%
+2022-03,Go First,0.04%
+2023-03,Go First,0.39%
+2023-03,Go First,0.09%
+2015-03,IndiGo,0.84%
+2016-03,IndiGo,0.80%
+2016-03,IndiGo,0.00%
+2017-03,IndiGo,0.94%
+2017-03,IndiGo,0.00%
+2018-03,IndiGo,1.15%
+2019-03,IndiGo,2.01%
+2020-03,IndiGo,1.49%
+2020-03,IndiGo,0.02%
+2021-03,IndiGo,0.01%
+2022-03,IndiGo,0.31%
+2022-03,IndiGo,0.02%
+2023-03,IndiGo,2.73%
+2023-03,IndiGo,0.09%
+2024-03,IndiGo,3.14%
+2024-03,IndiGo,0.08%
+2025-03,IndiGo,3.68%
+2025-03,IndiGo,0.05%
+2023-03,India One Air,0.00%
+2024-03,India One Air,0.00%
+2015-03,Jet Airways,4.01%
+2016-03,Jet Airways,3.25%
+2017-03,Jet Airways,3.10%
+2018-03,Jet Airways,2.67%
+2019-03,Jet Airways,1.51%
+2023-03,QuikJet Cargo,0.00%
+2024-03,QuikJet Cargo,0.00%
+2025-03,QuikJet Cargo,0.00%
+2015-03,SpiceJet,0.53%
+2016-03,SpiceJet,0.77%
+2017-03,SpiceJet,0.69%
+2017-03,SpiceJet,0.00%
+2018-03,SpiceJet,0.64%
+2019-03,SpiceJet,0.75%
+2019-03,SpiceJet,0.00%
+2020-03,SpiceJet,0.66%
+2020-03,SpiceJet,0.00%
+2021-03,SpiceJet,0.02%
+2022-03,SpiceJet,0.07%
+2022-03,SpiceJet,0.01%
+2023-03,SpiceJet,0.58%
+2023-03,SpiceJet,0.01%
+2024-03,SpiceJet,0.49%
+2024-03,SpiceJet,0.00%
+2025-03,SpiceJet,0.32%
+2025-03,SpiceJet,0.00%
+2015-03,Total International,9.81%
+2016-03,Total International,8.62%
+2017-03,Total International,8.59%
+2018-03,Total International,7.80%
+2020-03,Total International,5.26%
+2022-03,Total International,0.47%
+2023-03,Total International,7.63%
+2024-03,Total International,8.31%
+2025-03,Total International,8.31%
+2020-03,Vistara,0.08%
+2021-03,Vistara,0.00%
+2022-03,Vistara,0.04%
+2022-03,Vistara,0.01%
+2023-03,Vistara,0.55%
+2023-03,Vistara,0.00%
+2024-03,Vistara,0.81%
+2024-03,Vistara,0.00%
+2015-04,Air India,0.12%
+2016-04,Air India,0.15%
+2017-04,Air India,0.11%
+2018-04,Air India,0.10%
+2015-04,Alliance Air,0.00%
+2016-04,Alliance Air,0.00%
+2017-04,Alliance Air,0.00%
+2016-04,Go First,0.00%
+2017-04,Go First,0.00%
+2015-04,Jet Airways,0.02%
+2016-04,Jet Airways,0.03%
+2017-04,Jet Airways,0.04%
+2018-04,Jet Airways,0.04%
+2019-04,Jet Airways,0.00%
+2016-04,JetLite,0.00%
+2017-04,JetLite,0.00%
+2018-04,JetLite,0.00%
+2019-04,JetLite,0.00%
+2017-04,QuikJet Cargo,0.00%
+2015-04,Total Domestic,0.14%
+2016-04,Total Domestic,0.18%
+2017-04,Total Domestic,0.15%
+2018-04,Total Domestic,0.14%
+2019-04,Total Domestic,0.12%
+2020-04,Total Domestic,17.56%
+2021-04,Total Domestic,0.35%
+2022-04,Total Domestic,0.13%
+2023-04,Total Domestic,0.19%
+2024-04,Total Domestic,0.16%
+2025-04,Total Domestic,0.15%
+2018-04,Vistara,0.00%
+2020-04,Air India,32.44%
+2021-04,Air India,1.54%
+2020-04,Air India Express,0.00%
+2021-04,Air India Express,1.27%
+2025-04,Air India Express,0.00%
+2020-04,Blue Dart Aviation,0.00%
+2021-04,Blue Dart Aviation,0.00%
+2022-04,Blue Dart Aviation,0.00%
+2024-04,Blue Dart Aviation,0.00%
+2021-04,Go First,0.31%
+2021-04,IndiGo,1.38%
+2022-04,IndiGo,0.01%
+2024-04,IndiGo,0.00%
+2025-04,IndiGo,0.00%
+2015-04,Jet Airways,0.00%
+2016-04,Jet Airways,0.00%
+2017-04,Jet Airways,0.00%
+2018-04,Jet Airways,0.00%
+2019-04,Jet Airways,0.00%
+2024-04,QuikJet Cargo,0.00%
+2020-04,SpiceJet,0.00%
+2021-04,SpiceJet,0.54%
+2022-04,SpiceJet,0.02%
+2023-04,SpiceJet,0.00%
+2024-04,SpiceJet,0.00%
+2025-04,SpiceJet,0.00%
+2016-04,Total International,0.00%
+2017-04,Total International,0.00%
+2018-04,Total International,0.00%
+2020-04,Total International,32.44%
+2021-04,Total International,5.17%
+2022-04,Total International,0.03%
+2023-04,Total International,0.00%
+2024-04,Total International,0.00%
+2025-04,Total International,0.00%
+2021-04,Vistara,0.13%
+2022-04,Vistara,0.00%
+2024-04,AIX Connect,2.27%
+2017-04,Air Carnival,0.00%
+2015-04,Air Costa,0.41%
+2016-04,Air Costa,0.34%
+2018-04,Air Deccan,0.00%
+2015-04,Air India,6.19%
+2016-04,Air India,5.85%
+2017-04,Air India,5.01%
+2018-04,Air India,4.95%
+2019-04,Air India,5.64%
+2021-04,Air India,4.28%
+2022-04,Air India,3.43%
+2023-04,Air India,3.68%
+2024-04,Air India,4.61%
+2025-04,Air India,6.27%
+2015-04,Air India Express,0.08%
+2016-04,Air India Express,0.04%
+2017-04,Air India Express,0.03%
+2018-04,Air India Express,0.07%
+2019-04,Air India Express,0.07%
+2022-04,Air India Express,0.01%
+2024-04,Air India Express,1.33%
+2025-04,Air India Express,4.92%
+2018-04,Air Odisha,0.00%
+2016-04,Air Pegasus,0.11%
+2021-04,Air Taxi,0.00%
+2015-04,AirAsia India,0.45%
+2016-04,AirAsia India,0.88%
+2018-04,AirAsia India,2.13%
+2019-04,AirAsia India,2.85%
+2021-04,AirAsia India,2.79%
+2022-04,AirAsia India,2.46%
+2023-04,AirAsia India,3.24%
+2023-04,Akasa Air,1.70%
+2024-04,Akasa Air,1.83%
+2025-04,Akasa Air,2.05%
+2015-04,Alliance Air,0.20%
+2016-04,Alliance Air,0.23%
+2017-04,Alliance Air,0.29%
+2018-04,Alliance Air,0.51%
+2019-04,Alliance Air,0.57%
+2021-04,Alliance Air,0.50%
+2022-04,Alliance Air,0.50%
+2023-04,Alliance Air,0.47%
+2024-04,Alliance Air,0.40%
+2025-04,Alliance Air,0.22%
+2016-04,Blue Dart Aviation,0.00%
+2017-04,Blue Dart Aviation,0.00%
+2018-04,Blue Dart Aviation,0.00%
+2019-04,Blue Dart Aviation,0.00%
+2020-04,Blue Dart Aviation,0.00%
+2021-04,Blue Dart Aviation,0.00%
+2022-04,Blue Dart Aviation,0.00%
+2023-04,Blue Dart Aviation,0.00%
+2024-04,Blue Dart Aviation,0.00%
+2025-04,Blue Dart Aviation,0.00%
+2024-04,Fly91,0.01%
+2025-04,Fly91,0.06%
+2021-04,Flybig,0.01%
+2022-04,Flybig,0.07%
+2023-04,Flybig,0.07%
+2024-04,Flybig,0.00%
+2025-04,Flybig,0.00%
+2015-04,Go First,3.56%
+2016-04,Go First,3.54%
+2017-04,Go First,3.41%
+2018-04,Go First,3.72%
+2019-04,Go First,5.00%
+2021-04,Go First,4.31%
+2022-04,Go First,4.60%
+2023-04,Go First,2.74%
+2015-04,IndiGo,15.37%
+2016-04,IndiGo,16.05%
+2017-04,IndiGo,17.45%
+2018-04,IndiGo,16.85%
+2019-04,IndiGo,23.01%
+2021-04,IndiGo,24.28%
+2022-04,IndiGo,24.73%
+2023-04,IndiGo,24.48%
+2024-04,IndiGo,25.29%
+2025-04,IndiGo,26.39%
+2023-04,India One Air,0.01%
+2024-04,India One Air,0.01%
+2025-04,India One Air,0.01%
+2015-04,Jet Airways,7.95%
+2016-04,Jet Airways,6.57%
+2017-04,Jet Airways,6.38%
+2018-04,Jet Airways,6.19%
+2019-04,Jet Airways,0.36%
+2015-04,JetLite,1.42%
+2016-04,JetLite,1.26%
+2017-04,JetLite,1.03%
+2018-04,JetLite,0.64%
+2019-04,JetLite,0.07%
+2021-04,Pawan Hans,0.00%
+2017-04,QuikJet Cargo,0.00%
+2023-04,QuikJet Cargo,0.00%
+2024-04,QuikJet Cargo,0.00%
+2025-04,QuikJet Cargo,0.00%
+2015-04,SpiceJet,4.38%
+2016-04,SpiceJet,5.35%
+2017-04,SpiceJet,5.43%
+2018-04,SpiceJet,5.25%
+2019-04,SpiceJet,6.05%
+2021-04,SpiceJet,5.56%
+2022-04,SpiceJet,4.16%
+2023-04,SpiceJet,2.45%
+2024-04,SpiceJet,1.95%
+2025-04,SpiceJet,1.09%
+2019-04,Star Air,0.02%
+2021-04,Star Air,0.10%
+2022-04,Star Air,0.09%
+2023-04,Star Air,0.06%
+2024-04,Star Air,0.17%
+2025-04,Star Air,0.18%
+2015-04,Total Domestic,40.50%
+2016-04,Total Domestic,41.34%
+2017-04,Total Domestic,42.02%
+2018-04,Total Domestic,42.22%
+2019-04,Total Domestic,46.04%
+2020-04,Total Domestic,0.00%
+2021-04,Total Domestic,44.48%
+2022-04,Total Domestic,43.79%
+2023-04,Total Domestic,42.60%
+2024-04,Total Domestic,41.73%
+2025-04,Total Domestic,41.19%
+2016-04,TruJet,0.17%
+2017-04,TruJet,0.22%
+2018-04,TruJet,0.19%
+2019-04,TruJet,0.24%
+2021-04,TruJet,0.19%
+2015-04,Vistara,0.49%
+2016-04,Vistara,0.96%
+2017-04,Vistara,1.37%
+2018-04,Vistara,1.70%
+2019-04,Vistara,2.17%
+2021-04,Vistara,2.45%
+2022-04,Vistara,3.75%
+2023-04,Vistara,3.71%
+2024-04,Vistara,3.85%
+2017-04,Zoom Air,0.01%
+2018-04,Zoom Air,0.01%
+2015-04,Air India,2.82%
+2016-04,Air India,2.44%
+2017-04,Air India,2.30%
+2018-04,Air India,2.09%
+2019-04,Air India,2.51%
+2019-04,Air India,0.12%
+2020-04,Air India,17.56%
+2021-04,Air India,0.25%
+2022-04,Air India,1.91%
+2022-04,Air India,0.06%
+2023-04,Air India,2.02%
+2024-04,Air India,2.23%
+2024-04,Air India,0.06%
+2025-04,Air India,2.69%
+2025-04,Air India,0.04%
+2015-04,Air India Express,1.34%
+2016-04,Air India Express,1.29%
+2017-04,Air India Express,1.45%
+2018-04,Air India Express,1.31%
+2019-04,Air India Express,1.78%
+2022-04,Air India Express,1.31%
+2023-04,Air India Express,1.22%
+2024-04,Air India Express,1.49%
+2024-04,Air India Express,0.00%
+2025-04,Air India Express,1.70%
+2025-04,Air India Express,0.06%
+2020-04,AirAsia India,0.00%
+2021-04,AirAsia India,0.06%
+2022-04,AirAsia India,0.04%
+2023-04,AirAsia India,0.00%
+2024-04,Akasa Air,0.01%
+2024-04,Akasa Air,0.00%
+2025-04,Akasa Air,0.14%
+2025-04,Akasa Air,0.00%
+2023-04,Alliance Air,0.01%
+2023-04,Alliance Air,0.00%
+2024-04,Alliance Air,0.01%
+2024-04,Alliance Air,0.00%
+2025-04,Alliance Air,0.00%
+2020-04,Blue Dart Aviation,0.00%
+2021-04,Blue Dart Aviation,0.00%
+2022-04,Blue Dart Aviation,0.00%
+2023-04,Blue Dart Aviation,0.00%
+2024-04,Blue Dart Aviation,0.00%
+2025-04,Blue Dart Aviation,0.00%
+2019-04,Go First,0.19%
+2022-04,Go First,0.24%
+2022-04,Go First,0.00%
+2023-04,Go First,0.28%
+2023-04,Go First,0.08%
+2015-04,IndiGo,0.85%
+2016-04,IndiGo,0.74%
+2016-04,IndiGo,0.00%
+2017-04,IndiGo,1.02%
+2017-04,IndiGo,0.00%
+2018-04,IndiGo,1.17%
+2019-04,IndiGo,2.12%
+2021-04,IndiGo,0.02%
+2022-04,IndiGo,1.88%
+2022-04,IndiGo,0.02%
+2023-04,IndiGo,2.68%
+2023-04,IndiGo,0.09%
+2024-04,IndiGo,3.20%
+2024-04,IndiGo,0.09%
+2025-04,IndiGo,3.82%
+2025-04,IndiGo,0.05%
+2023-04,India One Air,0.00%
+2024-04,India One Air,0.00%
+2015-04,Jet Airways,3.78%
+2016-04,Jet Airways,3.27%
+2017-04,Jet Airways,3.06%
+2018-04,Jet Airways,2.43%
+2019-04,Jet Airways,0.26%
+2024-04,QuikJet Cargo,0.00%
+2025-04,QuikJet Cargo,0.00%
+2015-04,SpiceJet,0.57%
+2016-04,SpiceJet,0.73%
+2017-04,SpiceJet,0.69%
+2017-04,SpiceJet,0.00%
+2018-04,SpiceJet,0.64%
+2019-04,SpiceJet,0.82%
+2019-04,SpiceJet,0.00%
+2020-04,SpiceJet,0.00%
+2021-04,SpiceJet,0.01%
+2022-04,SpiceJet,0.48%
+2022-04,SpiceJet,0.01%
+2023-04,SpiceJet,0.51%
+2023-04,SpiceJet,0.00%
+2024-04,SpiceJet,0.42%
+2024-04,SpiceJet,0.00%
+2025-04,SpiceJet,0.30%
+2025-04,SpiceJet,0.00%
+2015-04,Total International,9.36%
+2016-04,Total International,8.47%
+2017-04,Total International,8.52%
+2018-04,Total International,7.64%
+2022-04,Total International,6.05%
+2023-04,Total International,7.22%
+2024-04,Total International,8.11%
+2025-04,Total International,8.65%
+2021-04,Vistara,0.01%
+2022-04,Vistara,0.23%
+2022-04,Vistara,0.00%
+2023-04,Vistara,0.50%
+2023-04,Vistara,0.00%
+2024-04,Vistara,0.76%
+2024-04,Vistara,0.00%
+2015-05,Air India,0.15%
+2016-05,Air India,0.19%
+2017-05,Air India,0.10%
+2018-05,Air India,0.10%
+2015-05,Alliance Air,0.00%
+2016-05,Alliance Air,0.00%
+2017-05,Alliance Air,0.00%
+2016-05,Go First,0.00%
+2017-05,Go First,0.00%
+2015-05,Jet Airways,0.02%
+2016-05,Jet Airways,0.03%
+2017-05,Jet Airways,0.04%
+2018-05,Jet Airways,0.03%
+2019-05,Jet Airways,0.00%
+2016-05,JetLite,0.00%
+2017-05,JetLite,0.00%
+2018-05,JetLite,0.00%
+2019-05,JetLite,0.00%
+2016-05,QuikJet Cargo,0.00%
+2017-05,QuikJet Cargo,0.00%
+2015-05,Total Domestic,0.18%
+2016-05,Total Domestic,0.22%
+2017-05,Total Domestic,0.14%
+2018-05,Total Domestic,0.13%
+2019-05,Total Domestic,0.13%
+2020-05,Total Domestic,0.65%
+2021-05,Total Domestic,0.60%
+2022-05,Total Domestic,0.14%
+2023-05,Total Domestic,0.11%
+2024-05,Total Domestic,0.23%
+2018-05,Vistara,0.00%
+2020-05,Air India,5.73%
+2021-05,Air India,1.95%
+2020-05,Air India Express,3.12%
+2021-05,Air India Express,1.07%
+2020-05,Blue Dart Aviation,0.00%
+2021-05,Blue Dart Aviation,0.00%
+2022-05,Blue Dart Aviation,0.00%
+2024-05,Blue Dart Aviation,0.00%
+2021-05,Go First,0.14%
+2021-05,IndiGo,1.32%
+2022-05,IndiGo,0.00%
+2023-05,IndiGo,0.00%
+2024-05,IndiGo,0.00%
+2015-05,Jet Airways,0.00%
+2016-05,Jet Airways,0.00%
+2017-05,Jet Airways,0.00%
+2018-05,Jet Airways,0.00%
+2019-05,Jet Airways,0.00%
+2020-05,SpiceJet,0.04%
+2021-05,SpiceJet,0.25%
+2022-05,SpiceJet,0.00%
+2023-05,SpiceJet,0.00%
+2024-05,SpiceJet,0.04%
+2016-05,Total International,0.00%
+2017-05,Total International,0.00%
+2018-05,Total International,0.00%
+2020-05,Total International,8.90%
+2021-05,Total International,4.86%
+2022-05,Total International,0.01%
+2023-05,Total International,0.00%
+2024-05,Total International,0.04%
+2021-05,Vistara,0.13%
+2022-05,Vistara,0.00%
+2024-05,AIX Connect,2.14%
+2015-05,Air Costa,0.35%
+2016-05,Air Costa,0.32%
+2018-05,Air Deccan,0.00%
+2015-05,Air India,5.98%
+2016-05,Air India,6.01%
+2017-05,Air India,5.11%
+2018-05,Air India,4.78%
+2019-05,Air India,5.47%
+2020-05,Air India,6.04%
+2021-05,Air India,7.02%
+2022-05,Air India,3.11%
+2023-05,Air India,3.99%
+2024-05,Air India,4.75%
+2015-05,Air India Express,0.11%
+2016-05,Air India Express,0.06%
+2017-05,Air India Express,0.03%
+2018-05,Air India Express,0.06%
+2019-05,Air India Express,0.06%
+2020-05,Air India Express,0.05%
+2022-05,Air India Express,0.01%
+2024-05,Air India Express,1.00%
+2018-05,Air Odisha,0.00%
+2015-05,Air Pegasus,0.04%
+2016-05,Air Pegasus,0.10%
+2021-05,Air Taxi,0.00%
+2015-05,AirAsia India,0.54%
+2016-05,AirAsia India,0.92%
+2018-05,AirAsia India,2.32%
+2019-05,AirAsia India,2.94%
+2020-05,AirAsia India,3.19%
+2021-05,AirAsia India,1.39%
+2022-05,AirAsia India,2.59%
+2023-05,AirAsia India,3.33%
+2023-05,Akasa Air,2.02%
+2024-05,Akasa Air,2.02%
+2015-05,Alliance Air,0.22%
+2016-05,Alliance Air,0.24%
+2017-05,Alliance Air,0.30%
+2018-05,Alliance Air,0.49%
+2019-05,Alliance Air,0.58%
+2020-05,Alliance Air,0.55%
+2021-05,Alliance Air,0.65%
+2022-05,Alliance Air,0.47%
+2023-05,Alliance Air,0.59%
+2024-05,Alliance Air,0.41%
+2016-05,Blue Dart Aviation,0.00%
+2017-05,Blue Dart Aviation,0.00%
+2018-05,Blue Dart Aviation,0.00%
+2019-05,Blue Dart Aviation,0.00%
+2020-05,Blue Dart Aviation,0.00%
+2021-05,Blue Dart Aviation,0.00%
+2022-05,Blue Dart Aviation,0.00%
+2023-05,Blue Dart Aviation,0.00%
+2024-05,Blue Dart Aviation,0.00%
+2024-05,Fly91,0.03%
+2021-05,Flybig,0.03%
+2022-05,Flybig,0.09%
+2023-05,Flybig,0.05%
+2024-05,Flybig,0.00%
+2015-05,Go First,3.51%
+2016-05,Go First,3.38%
+2017-05,Go First,3.62%
+2018-05,Go First,3.70%
+2019-05,Go First,5.18%
+2021-05,Go First,3.03%
+2022-05,Go First,4.82%
+2023-05,Go First,0.15%
+2015-05,IndiGo,15.85%
+2016-05,IndiGo,16.10%
+2017-05,IndiGo,17.55%
+2018-05,IndiGo,17.38%
+2019-05,IndiGo,22.87%
+2020-05,IndiGo,20.67%
+2021-05,IndiGo,25.55%
+2022-05,IndiGo,24.08%
+2023-05,IndiGo,25.98%
+2024-05,IndiGo,25.83%
+2023-05,India One Air,0.00%
+2024-05,India One Air,0.01%
+2015-05,Jet Airways,7.42%
+2016-05,Jet Airways,6.70%
+2017-05,Jet Airways,6.45%
+2018-05,Jet Airways,5.80%
+2019-05,Jet Airways,0.00%
+2015-05,JetLite,1.29%
+2016-05,JetLite,1.23%
+2017-05,JetLite,1.03%
+2018-05,JetLite,0.65%
+2019-05,JetLite,0.00%
+2019-05,Pawan Hans,0.00%
+2016-05,QuikJet Cargo,0.00%
+2017-05,QuikJet Cargo,0.00%
+2023-05,QuikJet Cargo,0.00%
+2024-05,QuikJet Cargo,0.00%
+2015-05,SpiceJet,4.79%
+2016-05,SpiceJet,5.29%
+2017-05,SpiceJet,5.35%
+2018-05,SpiceJet,5.23%
+2019-05,SpiceJet,6.89%
+2020-05,SpiceJet,7.00%
+2021-05,SpiceJet,4.35%
+2022-05,SpiceJet,4.35%
+2023-05,SpiceJet,2.31%
+2024-05,SpiceJet,1.68%
+2019-05,Star Air,0.02%
+2020-05,Star Air,0.06%
+2021-05,Star Air,0.15%
+2022-05,Star Air,0.08%
+2023-05,Star Air,0.08%
+2024-05,Star Air,0.18%
+2015-05,Total Domestic,40.63%
+2016-05,Total Domestic,41.61%
+2017-05,Total Domestic,42.45%
+2018-05,Total Domestic,42.33%
+2019-05,Total Domestic,46.48%
+2020-05,Total Domestic,40.46%
+2021-05,Total Domestic,44.53%
+2022-05,Total Domestic,43.32%
+2023-05,Total Domestic,42.34%
+2024-05,Total Domestic,41.90%
+2016-05,TruJet,0.20%
+2017-05,TruJet,0.21%
+2018-05,TruJet,0.20%
+2019-05,TruJet,0.25%
+2020-05,TruJet,0.22%
+2021-05,TruJet,0.26%
+2015-05,Vistara,0.53%
+2016-05,Vistara,1.07%
+2017-05,Vistara,1.40%
+2018-05,Vistara,1.69%
+2019-05,Vistara,2.21%
+2020-05,Vistara,2.68%
+2021-05,Vistara,2.12%
+2022-05,Vistara,3.71%
+2023-05,Vistara,3.83%
+2024-05,Vistara,3.86%
+2017-05,Zoom Air,0.01%
+2018-05,Zoom Air,0.02%
+2024-05,AIX Connect,0.05%
+2015-05,Air India,2.75%
+2016-05,Air India,2.36%
+2017-05,Air India,2.19%
+2018-05,Air India,2.08%
+2019-05,Air India,2.29%
+2019-05,Air India,0.13%
+2020-05,Air India,0.42%
+2021-05,Air India,0.54%
+2022-05,Air India,1.77%
+2022-05,Air India,0.00%
+2023-05,Air India,2.11%
+2023-05,Air India,0.00%
+2024-05,Air India,2.24%
+2024-05,Air India,0.14%
+2015-05,Air India Express,1.37%
+2016-05,Air India Express,1.26%
+2017-05,Air India Express,1.29%
+2018-05,Air India Express,1.22%
+2019-05,Air India Express,1.63%
+2022-05,Air India Express,1.29%
+2023-05,Air India Express,1.42%
+2024-05,Air India Express,1.55%
+2021-05,AirAsia India,0.02%
+2022-05,AirAsia India,0.02%
+2023-05,AirAsia India,0.00%
+2024-05,Akasa Air,0.02%
+2024-05,Akasa Air,0.00%
+2023-05,Alliance Air,0.01%
+2023-05,Alliance Air,0.00%
+2024-05,Alliance Air,0.01%
+2024-05,Alliance Air,0.00%
+2020-05,Blue Dart Aviation,0.00%
+2021-05,Blue Dart Aviation,0.00%
+2022-05,Blue Dart Aviation,0.00%
+2023-05,Blue Dart Aviation,0.00%
+2024-05,Blue Dart Aviation,0.00%
+2022-05,Flybig,0.00%
+2019-05,Go First,0.19%
+2021-05,Go First,0.01%
+2022-05,Go First,0.33%
+2022-05,Go First,0.00%
+2023-05,Go First,0.02%
+2023-05,Go First,0.01%
+2015-05,IndiGo,0.84%
+2016-05,IndiGo,0.71%
+2016-05,IndiGo,0.00%
+2017-05,IndiGo,1.02%
+2017-05,IndiGo,0.00%
+2018-05,IndiGo,1.20%
+2019-05,IndiGo,1.85%
+2020-05,IndiGo,0.15%
+2021-05,IndiGo,0.02%
+2022-05,IndiGo,2.32%
+2022-05,IndiGo,0.10%
+2023-05,IndiGo,2.98%
+2023-05,IndiGo,0.09%
+2024-05,IndiGo,2.83%
+2024-05,IndiGo,0.01%
+2023-05,India One Air,0.00%
+2024-05,India One Air,0.00%
+2015-05,Jet Airways,3.67%
+2016-05,Jet Airways,3.15%
+2017-05,Jet Airways,2.92%
+2018-05,Jet Airways,2.38%
+2019-05,Jet Airways,0.00%
+2023-05,QuikJet Cargo,0.00%
+2024-05,QuikJet Cargo,0.00%
+2015-05,SpiceJet,0.54%
+2016-05,SpiceJet,0.69%
+2017-05,SpiceJet,0.68%
+2017-05,SpiceJet,0.00%
+2018-05,SpiceJet,0.66%
+2019-05,SpiceJet,0.81%
+2019-05,SpiceJet,0.00%
+2020-05,SpiceJet,0.07%
+2021-05,SpiceJet,0.01%
+2022-05,SpiceJet,0.57%
+2022-05,SpiceJet,0.00%
+2023-05,SpiceJet,0.50%
+2023-05,SpiceJet,0.00%
+2024-05,SpiceJet,0.43%
+2024-05,SpiceJet,0.00%
+2015-05,Total International,9.19%
+2016-05,Total International,8.16%
+2017-05,Total International,8.10%
+2018-05,Total International,7.53%
+2022-05,Total International,6.54%
+2023-05,Total International,7.55%
+2024-05,Total International,7.84%
+2020-05,Vistara,0.01%
+2021-05,Vistara,0.01%
+2022-05,Vistara,0.26%
+2022-05,Vistara,0.00%
+2023-05,Vistara,0.52%
+2023-05,Vistara,0.00%
+2024-05,Vistara,0.76%
+2024-05,Vistara,0.02%
+2015-06,Air India,0.34%
+2016-06,Air India,0.30%
+2017-06,Air India,0.21%
+2018-06,Air India,0.21%
+2015-06,Alliance Air,0.00%
+2016-06,Alliance Air,0.01%
+2017-06,Alliance Air,0.00%
+2016-06,Go First,0.00%
+2017-06,Go First,0.00%
+2015-06,Jet Airways,0.06%
+2016-06,Jet Airways,0.06%
+2017-06,Jet Airways,0.08%
+2018-06,Jet Airways,0.07%
+2019-06,Jet Airways,0.00%
+2016-06,JetLite,0.00%
+2017-06,JetLite,0.00%
+2018-06,JetLite,0.00%
+2019-06,JetLite,0.00%
+2016-06,QuikJet Cargo,0.00%
+2017-06,QuikJet Cargo,0.00%
+2021-06,Total Domestic,0.59%
+2022-06,Total Domestic,0.14%
+2023-06,Total Domestic,0.11%
+2024-06,Total Domestic,0.18%
+2018-06,Vistara,0.00%
+2020-06,Air India,5.17%
+2021-06,Air India,1.27%
+2020-06,Air India Express,2.09%
+2021-06,Air India Express,1.01%
+2023-06,Air India Express,0.03%
+2020-06,Blue Dart Aviation,0.00%
+2021-06,Blue Dart Aviation,0.00%
+2022-06,Blue Dart Aviation,0.00%
+2020-06,Go First,0.48%
+2021-06,Go First,0.03%
+2020-06,IndiGo,1.88%
+2021-06,IndiGo,0.91%
+2022-06,IndiGo,0.01%
+2024-06,IndiGo,0.00%
+2015-06,Jet Airways,0.00%
+2016-06,Jet Airways,0.00%
+2017-06,Jet Airways,0.00%
+2018-06,Jet Airways,0.00%
+2019-06,Jet Airways,0.00%
+2020-06,SpiceJet,1.31%
+2021-06,SpiceJet,0.09%
+2022-06,SpiceJet,0.03%
+2023-06,SpiceJet,0.07%
+2024-06,SpiceJet,0.01%
+2021-06,Total International,3.40%
+2022-06,Total International,0.04%
+2023-06,Total International,0.15%
+2024-06,Total International,0.01%
+2020-06,Vistara,0.02%
+2021-06,Vistara,0.09%
+2023-06,Vistara,0.04%
+2024-06,AIX Connect,2.00%
+2015-06,Air Costa,0.81%
+2016-06,Air Costa,0.65%
+2018-06,Air Deccan,0.00%
+2015-06,Air India,11.53%
+2016-06,Air India,12.11%
+2017-06,Air India,10.43%
+2018-06,Air India,9.27%
+2019-06,Air India,9.79%
+2020-06,Air India,9.26%
+2021-06,Air India,5.72%
+2022-06,Air India,3.16%
+2023-06,Air India,4.08%
+2024-06,Air India,4.69%
+2015-06,Air India Express,0.20%
+2016-06,Air India Express,0.08%
+2017-06,Air India Express,0.04%
+2018-06,Air India Express,0.10%
+2019-06,Air India Express,0.10%
+2020-06,Air India Express,0.15%
+2022-06,Air India Express,0.01%
+2024-06,Air India Express,1.32%
+2018-06,Air Odisha,0.00%
+2015-06,Air Pegasus,0.12%
+2016-06,Air Pegasus,0.15%
+2021-06,Air Taxi,0.00%
+2015-06,AirAsia India,1.55%
+2016-06,AirAsia India,1.81%
+2018-06,AirAsia India,4.50%
+2019-06,AirAsia India,5.58%
+2020-06,AirAsia India,6.55%
+2021-06,AirAsia India,1.62%
+2022-06,AirAsia India,2.38%
+2023-06,AirAsia India,3.37%
+2023-06,Akasa Air,2.08%
+2024-06,Akasa Air,1.99%
+2015-06,Alliance Air,0.39%
+2016-06,Alliance Air,0.46%
+2017-06,Alliance Air,0.66%
+2018-06,Alliance Air,0.98%
+2019-06,Alliance Air,1.06%
+2020-06,Alliance Air,1.69%
+2021-06,Alliance Air,0.80%
+2022-06,Alliance Air,0.49%
+2023-06,Alliance Air,0.48%
+2024-06,Alliance Air,0.42%
+2016-06,Blue Dart Aviation,0.00%
+2017-06,Blue Dart Aviation,0.00%
+2018-06,Blue Dart Aviation,0.00%
+2019-06,Blue Dart Aviation,0.00%
+2020-06,Blue Dart Aviation,0.00%
+2021-06,Blue Dart Aviation,0.00%
+2022-06,Blue Dart Aviation,0.00%
+2023-06,Blue Dart Aviation,0.00%
+2024-06,Blue Dart Aviation,0.00%
+2024-06,Fly91,0.03%
+2021-06,Flybig,0.05%
+2022-06,Flybig,0.09%
+2023-06,Flybig,0.07%
+2024-06,Flybig,0.01%
+2015-06,Go First,7.06%
+2016-06,Go First,6.95%
+2017-06,Go First,7.31%
+2018-06,Go First,7.90%
+2019-06,Go First,9.62%
+2021-06,Go First,3.93%
+2022-06,Go First,4.03%
+2015-06,IndiGo,31.30%
+2016-06,IndiGo,31.65%
+2017-06,IndiGo,34.73%
+2018-06,IndiGo,34.99%
+2019-06,IndiGo,41.77%
+2020-06,IndiGo,49.03%
+2021-06,IndiGo,25.86%
+2022-06,IndiGo,24.13%
+2023-06,IndiGo,26.53%
+2024-06,IndiGo,25.13%
+2023-06,India One Air,0.00%
+2024-06,India One Air,0.01%
+2015-06,Jet Airways,14.89%
+2016-06,Jet Airways,13.51%
+2017-06,Jet Airways,13.16%
+2018-06,Jet Airways,11.25%
+2019-06,Jet Airways,0.00%
+2015-06,JetLite,2.30%
+2016-06,JetLite,2.37%
+2017-06,JetLite,1.98%
+2018-06,JetLite,1.45%
+2019-06,JetLite,0.00%
+2019-06,Pawan Hans,0.00%
+2020-06,Pawan Hans,0.00%
+2021-06,Pawan Hans,0.00%
+2016-06,QuikJet Cargo,0.00%
+2017-06,QuikJet Cargo,0.00%
+2023-06,QuikJet Cargo,0.00%
+2024-06,QuikJet Cargo,0.00%
+2015-06,SpiceJet,9.87%
+2016-06,SpiceJet,10.57%
+2017-06,SpiceJet,11.56%
+2018-06,SpiceJet,10.26%
+2019-06,SpiceJet,13.56%
+2020-06,SpiceJet,15.65%
+2021-06,SpiceJet,4.27%
+2022-06,SpiceJet,4.04%
+2023-06,SpiceJet,1.87%
+2024-06,SpiceJet,1.56%
+2019-06,Star Air,0.04%
+2020-06,Star Air,0.28%
+2021-06,Star Air,0.19%
+2022-06,Star Air,0.09%
+2023-06,Star Air,0.08%
+2024-06,Star Air,0.18%
+2021-06,Total Domestic,46.01%
+2022-06,Total Domestic,42.41%
+2023-06,Total Domestic,41.97%
+2024-06,Total Domestic,41.32%
+2016-06,TruJet,0.36%
+2017-06,TruJet,0.38%
+2018-06,TruJet,0.39%
+2019-06,TruJet,0.46%
+2020-06,TruJet,0.71%
+2021-06,TruJet,0.16%
+2015-06,Vistara,1.04%
+2016-06,Vistara,2.38%
+2017-06,Vistara,3.12%
+2018-06,Vistara,3.39%
+2019-06,Vistara,4.68%
+2020-06,Vistara,5.24%
+2021-06,Vistara,3.41%
+2022-06,Vistara,4.00%
+2023-06,Vistara,3.40%
+2024-06,Vistara,3.99%
+2017-06,Zoom Air,0.02%
+2018-06,Zoom Air,0.03%
+2024-06,AIX Connect,0.05%
+2015-06,Air India,5.72%
+2016-06,Air India,4.82%
+2017-06,Air India,4.46%
+2018-06,Air India,4.19%
+2019-06,Air India,4.55%
+2019-06,Air India,0.26%
+2020-06,Air India,0.06%
+2021-06,Air India,0.57%
+2022-06,Air India,1.95%
+2023-06,Air India,2.28%
+2024-06,Air India,2.30%
+2024-06,Air India,0.11%
+2015-06,Air India Express,2.65%
+2016-06,Air India Express,2.52%
+2017-06,Air India Express,2.53%
+2018-06,Air India Express,2.32%
+2019-06,Air India Express,2.90%
+2022-06,Air India Express,1.41%
+2023-06,Air India Express,1.35%
+2024-06,Air India Express,1.50%
+2024-06,Air India Express,0.00%
+2020-06,AirAsia India,0.21%
+2022-06,AirAsia India,0.00%
+2023-06,AirAsia India,0.00%
+2024-06,Akasa Air,0.03%
+2023-06,Alliance Air,0.01%
+2023-06,Alliance Air,0.00%
+2024-06,Alliance Air,0.01%
+2024-06,Alliance Air,0.00%
+2020-06,Blue Dart Aviation,0.00%
+2021-06,Blue Dart Aviation,0.00%
+2022-06,Blue Dart Aviation,0.00%
+2023-06,Blue Dart Aviation,0.00%
+2024-06,Blue Dart Aviation,0.00%
+2022-06,Flybig,0.01%
+2019-06,Go First,0.41%
+2021-06,Go First,0.00%
+2022-06,Go First,0.40%
+2022-06,Go First,0.00%
+2015-06,IndiGo,1.71%
+2016-06,IndiGo,1.43%
+2016-06,IndiGo,0.00%
+2017-06,IndiGo,2.02%
+2017-06,IndiGo,0.00%
+2018-06,IndiGo,2.38%
+2019-06,IndiGo,3.67%
+2020-06,IndiGo,0.21%
+2021-06,IndiGo,0.01%
+2022-06,IndiGo,2.73%
+2022-06,IndiGo,0.12%
+2023-06,IndiGo,3.18%
+2023-06,IndiGo,0.10%
+2024-06,IndiGo,3.42%
+2024-06,IndiGo,0.02%
+2023-06,India One Air,0.00%
+2024-06,India One Air,0.00%
+2015-06,Jet Airways,7.39%
+2016-06,Jet Airways,6.45%
+2017-06,Jet Airways,5.95%
+2018-06,Jet Airways,5.01%
+2019-06,Jet Airways,0.00%
+2024-06,QuikJet Cargo,0.00%
+2015-06,SpiceJet,1.06%
+2016-06,SpiceJet,1.36%
+2017-06,SpiceJet,1.37%
+2017-06,SpiceJet,0.00%
+2018-06,SpiceJet,1.29%
+2019-06,SpiceJet,1.56%
+2019-06,SpiceJet,0.00%
+2020-06,SpiceJet,0.00%
+2021-06,SpiceJet,0.01%
+2022-06,SpiceJet,0.61%
+2022-06,SpiceJet,0.00%
+2023-06,SpiceJet,0.37%
+2023-06,SpiceJet,0.00%
+2024-06,SpiceJet,0.44%
+2024-06,SpiceJet,0.00%
+2022-06,Total International,7.41%
+2023-06,Total International,7.77%
+2024-06,Total International,8.48%
+2020-06,Vistara,0.01%
+2021-06,Vistara,0.00%
+2022-06,Vistara,0.31%
+2022-06,Vistara,0.00%
+2023-06,Vistara,0.58%
+2023-06,Vistara,0.00%
+2024-06,Vistara,0.78%
+2024-06,Vistara,0.00%
+2015-07,Air India,0.10%
+2016-07,Air India,0.13%
+2017-07,Air India,0.10%
+2018-07,Air India,0.09%
+2015-07,Alliance Air,0.00%
+2016-07,Alliance Air,0.00%
+2017-07,Alliance Air,0.00%
+2016-07,Go First,0.00%
+2017-07,Go First,0.00%
+2015-07,Jet Airways,0.03%
+2016-07,Jet Airways,0.02%
+2017-07,Jet Airways,0.04%
+2018-07,Jet Airways,0.04%
+2016-07,JetLite,0.00%
+2017-07,JetLite,0.00%
+2018-07,JetLite,0.00%
+2016-07,QuikJet Cargo,0.00%
+2017-07,QuikJet Cargo,0.00%
+2015-07,Total Domestic,0.14%
+2016-07,Total Domestic,0.16%
+2017-07,Total Domestic,0.14%
+2018-07,Total Domestic,0.13%
+2019-07,Total Domestic,0.16%
+2020-07,Total Domestic,0.16%
+2021-07,Total Domestic,0.56%
+2022-07,Total Domestic,0.21%
+2023-07,Total Domestic,0.10%
+2024-07,Total Domestic,0.18%
+2018-07,Vistara,0.00%
+2020-07,Air India,2.09%
+2021-07,Air India,1.03%
+2020-07,Air India Express,1.48%
+2021-07,Air India Express,0.92%
+2023-07,Air India Express,0.03%
+2020-07,Blue Dart Aviation,0.00%
+2022-07,Blue Dart Aviation,0.00%
+2020-07,Go First,0.68%
+2021-07,Go First,0.08%
+2020-07,IndiGo,1.52%
+2021-07,IndiGo,0.97%
+2022-07,IndiGo,0.01%
+2024-07,IndiGo,0.00%
+2015-07,Jet Airways,0.00%
+2016-07,Jet Airways,0.00%
+2017-07,Jet Airways,0.00%
+2018-07,Jet Airways,0.00%
+2024-07,QuikJet Cargo,0.00%
+2020-07,SpiceJet,0.98%
+2021-07,SpiceJet,0.11%
+2022-07,SpiceJet,0.04%
+2023-07,SpiceJet,0.07%
+2024-07,SpiceJet,0.02%
+2016-07,Total International,0.00%
+2017-07,Total International,0.00%
+2018-07,Total International,0.00%
+2020-07,Total International,6.77%
+2021-07,Total International,3.20%
+2022-07,Total International,0.05%
+2023-07,Total International,0.14%
+2024-07,Total International,0.02%
+2020-07,Vistara,0.02%
+2021-07,Vistara,0.09%
+2023-07,Vistara,0.04%
+2024-07,Vistara,0.00%
+2024-07,AIX Connect,1.87%
+2015-07,Air Costa,0.41%
+2016-07,Air Costa,0.32%
+2018-07,Air Deccan,0.00%
+2015-07,Air India,6.23%
+2016-07,Air India,5.75%
+2017-07,Air India,5.19%
+2018-07,Air India,4.53%
+2019-07,Air India,5.03%
+2020-07,Air India,2.98%
+2021-07,Air India,4.63%
+2022-07,Air India,3.47%
+2023-07,Air India,4.11%
+2024-07,Air India,4.88%
+2015-07,Air India Express,0.08%
+2016-07,Air India Express,0.04%
+2017-07,Air India Express,0.02%
+2018-07,Air India Express,0.05%
+2019-07,Air India Express,0.05%
+2020-07,Air India Express,0.04%
+2024-07,Air India Express,1.00%
+2018-07,Air Odisha,0.00%
+2015-07,Air Pegasus,0.06%
+2016-07,Air Pegasus,0.07%
+2021-07,Air Taxi,0.00%
+2015-07,AirAsia India,0.86%
+2016-07,AirAsia India,0.93%
+2018-07,AirAsia India,2.01%
+2019-07,AirAsia India,3.01%
+2020-07,AirAsia India,2.72%
+2021-07,AirAsia India,1.55%
+2022-07,AirAsia India,1.88%
+2023-07,AirAsia India,3.09%
+2023-07,Akasa Air,2.14%
+2024-07,Akasa Air,1.91%
+2015-07,Alliance Air,0.18%
+2016-07,Alliance Air,0.23%
+2017-07,Alliance Air,0.37%
+2018-07,Alliance Air,0.48%
+2019-07,Alliance Air,0.53%
+2020-07,Alliance Air,0.88%
+2021-07,Alliance Air,0.66%
+2022-07,Alliance Air,0.48%
+2023-07,Alliance Air,0.42%
+2024-07,Alliance Air,0.38%
+2016-07,Blue Dart Aviation,0.00%
+2017-07,Blue Dart Aviation,0.00%
+2018-07,Blue Dart Aviation,0.00%
+2019-07,Blue Dart Aviation,0.00%
+2020-07,Blue Dart Aviation,0.00%
+2021-07,Blue Dart Aviation,0.00%
+2022-07,Blue Dart Aviation,0.00%
+2023-07,Blue Dart Aviation,0.00%
+2024-07,Blue Dart Aviation,0.00%
+2024-07,Fly91,0.03%
+2021-07,Flybig,0.05%
+2022-07,Flybig,0.09%
+2023-07,Flybig,0.09%
+2024-07,Flybig,0.00%
+2015-07,Go First,3.42%
+2016-07,Go First,3.49%
+2017-07,Go First,3.26%
+2018-07,Go First,3.71%
+2019-07,Go First,5.17%
+2020-07,Go First,1.66%
+2021-07,Go First,3.23%
+2022-07,Go First,3.39%
+2015-07,IndiGo,14.59%
+2016-07,IndiGo,16.51%
+2017-07,IndiGo,16.28%
+2018-07,IndiGo,18.07%
+2019-07,IndiGo,22.21%
+2020-07,IndiGo,26.62%
+2021-07,IndiGo,27.69%
+2022-07,IndiGo,24.34%
+2023-07,IndiGo,26.34%
+2024-07,IndiGo,25.44%
+2023-07,India One Air,0.00%
+2024-07,India One Air,0.01%
+2015-07,Jet Airways,8.02%
+2016-07,Jet Airways,6.76%
+2017-07,Jet Airways,6.62%
+2018-07,Jet Airways,5.66%
+2015-07,JetLite,1.22%
+2016-07,JetLite,1.17%
+2017-07,JetLite,0.99%
+2018-07,JetLite,0.62%
+2019-07,Pawan Hans,0.00%
+2020-07,Pawan Hans,0.00%
+2021-07,Pawan Hans,0.00%
+2016-07,QuikJet Cargo,0.00%
+2017-07,QuikJet Cargo,0.00%
+2023-07,QuikJet Cargo,0.00%
+2024-07,QuikJet Cargo,0.00%
+2015-07,SpiceJet,5.02%
+2016-07,SpiceJet,4.85%
+2017-07,SpiceJet,5.98%
+2018-07,SpiceJet,5.16%
+2019-07,SpiceJet,7.21%
+2020-07,SpiceJet,6.93%
+2021-07,SpiceJet,4.31%
+2022-07,SpiceJet,3.31%
+2023-07,SpiceJet,1.73%
+2024-07,SpiceJet,1.28%
+2019-07,Star Air,0.02%
+2020-07,Star Air,0.12%
+2021-07,Star Air,0.16%
+2022-07,Star Air,0.08%
+2023-07,Star Air,0.10%
+2024-07,Star Air,0.17%
+2015-07,Total Domestic,40.73%
+2016-07,Total Domestic,41.35%
+2017-07,Total Domestic,41.95%
+2018-07,Total Domestic,42.12%
+2019-07,Total Domestic,46.28%
+2020-07,Total Domestic,44.00%
+2021-07,Total Domestic,46.24%
+2022-07,Total Domestic,41.36%
+2023-07,Total Domestic,41.52%
+2024-07,Total Domestic,41.06%
+2015-07,TruJet,0.05%
+2016-07,TruJet,0.14%
+2017-07,TruJet,0.19%
+2018-07,TruJet,0.19%
+2019-07,TruJet,0.27%
+2020-07,TruJet,0.21%
+2021-07,TruJet,0.13%
+2015-07,Vistara,0.57%
+2016-07,Vistara,1.10%
+2017-07,Vistara,1.54%
+2018-07,Vistara,1.63%
+2019-07,Vistara,2.79%
+2021-07,Vistara,3.84%
+2022-07,Vistara,4.32%
+2023-07,Vistara,3.50%
+2024-07,Vistara,4.09%
+2017-07,Zoom Air,0.00%
+2018-07,Zoom Air,0.00%
+2024-07,AIX Connect,0.06%
+2015-07,Air India,2.82%
+2016-07,Air India,2.40%
+2017-07,Air India,2.27%
+2018-07,Air India,1.94%
+2019-07,Air India,2.34%
+2019-07,Air India,0.16%
+2020-07,Air India,0.02%
+2021-07,Air India,0.45%
+2022-07,Air India,2.28%
+2022-07,Air India,0.00%
+2023-07,Air India,2.37%
+2024-07,Air India,2.28%
+2024-07,Air India,0.09%
+2015-07,Air India Express,1.32%
+2016-07,Air India Express,1.37%
+2017-07,Air India Express,1.41%
+2018-07,Air India Express,1.23%
+2019-07,Air India Express,1.57%
+2022-07,Air India Express,1.50%
+2023-07,Air India Express,1.40%
+2024-07,Air India Express,1.65%
+2024-07,Air India Express,0.00%
+2021-07,Air Taxi,0.00%
+2021-07,AirAsia India,0.07%
+2022-07,AirAsia India,0.00%
+2024-07,Akasa Air,0.08%
+2024-07,Akasa Air,0.00%
+2023-07,Alliance Air,0.01%
+2023-07,Alliance Air,0.00%
+2024-07,Alliance Air,0.01%
+2020-07,Blue Dart Aviation,0.00%
+2021-07,Blue Dart Aviation,0.00%
+2022-07,Blue Dart Aviation,0.00%
+2023-07,Blue Dart Aviation,0.00%
+2024-07,Blue Dart Aviation,0.00%
+2019-07,Go First,0.23%
+2022-07,Go First,0.42%
+2022-07,Go First,0.08%
+2015-07,IndiGo,0.83%
+2016-07,IndiGo,0.74%
+2016-07,IndiGo,0.00%
+2017-07,IndiGo,1.16%
+2017-07,IndiGo,0.00%
+2018-07,IndiGo,1.24%
+2019-07,IndiGo,2.13%
+2020-07,IndiGo,0.12%
+2021-07,IndiGo,0.02%
+2022-07,IndiGo,3.13%
+2022-07,IndiGo,0.13%
+2023-07,IndiGo,3.40%
+2023-07,IndiGo,0.10%
+2024-07,IndiGo,3.54%
+2024-07,IndiGo,0.02%
+2023-07,India One Air,0.00%
+2015-07,Jet Airways,3.65%
+2016-07,Jet Airways,3.29%
+2017-07,Jet Airways,3.10%
+2018-07,Jet Airways,2.67%
+2023-07,QuikJet Cargo,0.00%
+2024-07,QuikJet Cargo,0.00%
+2015-07,SpiceJet,0.52%
+2016-07,SpiceJet,0.68%
+2017-07,SpiceJet,0.71%
+2017-07,SpiceJet,0.00%
+2018-07,SpiceJet,0.67%
+2019-07,SpiceJet,0.87%
+2020-07,SpiceJet,0.02%
+2021-07,SpiceJet,0.01%
+2022-07,SpiceJet,0.68%
+2022-07,SpiceJet,0.00%
+2023-07,SpiceJet,0.46%
+2023-07,SpiceJet,0.00%
+2024-07,SpiceJet,0.39%
+2024-07,SpiceJet,0.00%
+2015-07,Total International,9.13%
+2016-07,Total International,8.49%
+2017-07,Total International,8.66%
+2018-07,Total International,7.75%
+2022-07,Total International,8.38%
+2023-07,Total International,8.24%
+2024-07,Total International,8.74%
+2021-07,Vistara,0.00%
+2022-07,Vistara,0.36%
+2022-07,Vistara,0.00%
+2023-07,Vistara,0.60%
+2024-07,Vistara,0.78%
+2024-07,Vistara,0.00%
+2015-08,Air India,0.12%
+2016-08,Air India,0.13%
+2017-08,Air India,0.05%
+2018-08,Air India,0.10%
+2015-08,Alliance Air,0.00%
+2016-08,Alliance Air,0.00%
+2017-08,Alliance Air,0.00%
+2016-08,Go First,0.00%
+2017-08,Go First,0.00%
+2015-08,Jet Airways,0.03%
+2016-08,Jet Airways,0.03%
+2017-08,Jet Airways,0.07%
+2018-08,Jet Airways,0.03%
+2016-08,JetLite,0.00%
+2017-08,JetLite,0.00%
+2018-08,JetLite,0.00%
+2016-08,QuikJet Cargo,0.00%
+2017-08,QuikJet Cargo,0.00%
+2015-08,Total Domestic,0.15%
+2016-08,Total Domestic,0.15%
+2017-08,Total Domestic,0.12%
+2018-08,Total Domestic,0.13%
+2019-08,Total Domestic,0.14%
+2020-08,Total Domestic,0.24%
+2021-08,Total Domestic,0.48%
+2022-08,Total Domestic,0.22%
+2023-08,Total Domestic,0.09%
+2024-08,Total Domestic,0.16%
+2018-08,Vistara,0.00%
+2020-08,Air India,1.49%
+2021-08,Air India,1.25%
+2024-08,Air India,0.00%
+2020-08,Air India Express,1.71%
+2021-08,Air India Express,0.90%
+2023-08,Air India Express,0.00%
+2020-08,Blue Dart Aviation,0.00%
+2022-08,Blue Dart Aviation,0.00%
+2020-08,Go First,0.38%
+2021-08,Go First,0.26%
+2020-08,IndiGo,1.03%
+2021-08,IndiGo,1.13%
+2022-08,IndiGo,0.01%
+2024-08,IndiGo,0.00%
+2015-08,Jet Airways,0.00%
+2016-08,Jet Airways,0.00%
+2017-08,Jet Airways,0.00%
+2018-08,Jet Airways,0.00%
+2024-08,QuikJet Cargo,0.00%
+2019-08,SpiceJet,0.00%
+2020-08,SpiceJet,0.43%
+2021-08,SpiceJet,0.22%
+2022-08,SpiceJet,0.02%
+2023-08,SpiceJet,0.01%
+2024-08,SpiceJet,0.00%
+2016-08,Total International,0.00%
+2017-08,Total International,0.00%
+2018-08,Total International,0.00%
+2020-08,Total International,5.12%
+2021-08,Total International,3.90%
+2022-08,Total International,0.03%
+2023-08,Total International,0.01%
+2024-08,Total International,0.00%
+2020-08,Vistara,0.08%
+2021-08,Vistara,0.14%
+2024-08,AIX Connect,1.81%
+2016-08,Air Carnival,0.02%
+2015-08,Air Costa,0.37%
+2016-08,Air Costa,0.27%
+2018-08,Air Deccan,0.01%
+2015-08,Air India,6.33%
+2016-08,Air India,5.61%
+2017-08,Air India,5.11%
+2018-08,Air India,4.68%
+2019-08,Air India,5.20%
+2020-08,Air India,3.55%
+2021-08,Air India,4.52%
+2022-08,Air India,3.56%
+2023-08,Air India,4.08%
+2024-08,Air India,4.76%
+2015-08,Air India Express,0.10%
+2016-08,Air India Express,0.05%
+2017-08,Air India Express,0.02%
+2018-08,Air India Express,0.06%
+2019-08,Air India Express,0.06%
+2020-08,Air India Express,0.02%
+2024-08,Air India Express,1.28%
+2018-08,Air Odisha,0.00%
+2015-08,Air Pegasus,0.09%
+2016-08,Air Pegasus,0.00%
+2021-08,Air Taxi,0.00%
+2015-08,AirAsia India,0.80%
+2016-08,AirAsia India,0.93%
+2018-08,AirAsia India,1.99%
+2019-08,AirAsia India,2.98%
+2020-08,AirAsia India,3.04%
+2021-08,AirAsia India,2.43%
+2022-08,AirAsia India,2.43%
+2023-08,AirAsia India,2.96%
+2022-08,Akasa Air,0.10%
+2023-08,Akasa Air,1.77%
+2024-08,Akasa Air,1.85%
+2015-08,Alliance Air,0.18%
+2016-08,Alliance Air,0.27%
+2017-08,Alliance Air,0.39%
+2018-08,Alliance Air,0.49%
+2019-08,Alliance Air,0.53%
+2020-08,Alliance Air,0.72%
+2021-08,Alliance Air,0.56%
+2022-08,Alliance Air,0.52%
+2023-08,Alliance Air,0.42%
+2024-08,Alliance Air,0.36%
+2016-08,Blue Dart Aviation,0.00%
+2017-08,Blue Dart Aviation,0.00%
+2018-08,Blue Dart Aviation,0.00%
+2019-08,Blue Dart Aviation,0.00%
+2020-08,Blue Dart Aviation,0.00%
+2021-08,Blue Dart Aviation,0.00%
+2022-08,Blue Dart Aviation,0.00%
+2023-08,Blue Dart Aviation,0.00%
+2024-08,Blue Dart Aviation,0.00%
+2024-08,Fly91,0.05%
+2021-08,Flybig,0.04%
+2022-08,Flybig,0.07%
+2023-08,Flybig,0.08%
+2024-08,Flybig,0.01%
+2015-08,Go First,3.29%
+2016-08,Go First,3.33%
+2017-08,Go First,3.37%
+2018-08,Go First,3.75%
+2019-08,Go First,5.44%
+2020-08,Go First,2.10%
+2021-08,Go First,3.19%
+2022-08,Go First,3.60%
+2015-08,IndiGo,14.26%
+2016-08,IndiGo,16.50%
+2017-08,IndiGo,15.99%
+2018-08,IndiGo,17.61%
+2019-08,IndiGo,21.68%
+2020-08,IndiGo,26.57%
+2021-08,IndiGo,26.60%
+2022-08,IndiGo,24.10%
+2023-08,IndiGo,26.48%
+2024-08,IndiGo,25.66%
+2023-08,India One Air,0.00%
+2024-08,India One Air,0.01%
+2015-08,Jet Airways,7.97%
+2016-08,Jet Airways,6.74%
+2017-08,Jet Airways,6.62%
+2018-08,Jet Airways,5.75%
+2015-08,JetLite,1.22%
+2016-08,JetLite,1.16%
+2017-08,JetLite,1.03%
+2018-08,JetLite,0.61%
+2019-08,Pawan Hans,0.00%
+2020-08,Pawan Hans,0.00%
+2021-08,Pawan Hans,0.00%
+2016-08,QuikJet Cargo,0.00%
+2017-08,QuikJet Cargo,0.00%
+2023-08,QuikJet Cargo,0.00%
+2024-08,QuikJet Cargo,0.00%
+2015-08,SpiceJet,4.96%
+2016-08,SpiceJet,5.20%
+2017-08,SpiceJet,5.91%
+2018-08,SpiceJet,5.20%
+2019-08,SpiceJet,7.17%
+2020-08,SpiceJet,6.17%
+2021-08,SpiceJet,4.07%
+2022-08,SpiceJet,3.30%
+2023-08,SpiceJet,1.82%
+2024-08,SpiceJet,0.95%
+2019-08,Star Air,0.02%
+2020-08,Star Air,0.12%
+2021-08,Star Air,0.13%
+2022-08,Star Air,0.08%
+2023-08,Star Air,0.11%
+2024-08,Star Air,0.16%
+2015-08,Total Domestic,40.28%
+2016-08,Total Domestic,41.24%
+2017-08,Total Domestic,42.00%
+2018-08,Total Domestic,41.91%
+2019-08,Total Domestic,45.99%
+2020-08,Total Domestic,44.64%
+2021-08,Total Domestic,45.62%
+2022-08,Total Domestic,41.80%
+2023-08,Total Domestic,41.81%
+2024-08,Total Domestic,41.13%
+2015-08,TruJet,0.11%
+2016-08,TruJet,0.15%
+2017-08,TruJet,0.20%
+2018-08,TruJet,0.19%
+2019-08,TruJet,0.24%
+2020-08,TruJet,0.12%
+2021-08,TruJet,0.19%
+2015-08,Vistara,0.59%
+2016-08,Vistara,1.01%
+2017-08,Vistara,1.56%
+2018-08,Vistara,1.57%
+2019-08,Vistara,2.68%
+2020-08,Vistara,2.24%
+2021-08,Vistara,3.89%
+2022-08,Vistara,4.05%
+2023-08,Vistara,4.09%
+2024-08,Vistara,4.24%
+2017-08,Zoom Air,0.00%
+2018-08,Zoom Air,0.00%
+2024-08,AIX Connect,0.06%
+2015-08,Air India,2.99%
+2016-08,Air India,2.45%
+2017-08,Air India,2.31%
+2018-08,Air India,2.01%
+2019-08,Air India,2.44%
+2019-08,Air India,0.14%
+2020-08,Air India,0.01%
+2021-08,Air India,0.40%
+2022-08,Air India,2.23%
+2023-08,Air India,2.29%
+2024-08,Air India,2.30%
+2024-08,Air India,0.09%
+2015-08,Air India Express,1.40%
+2016-08,Air India Express,1.39%
+2017-08,Air India Express,1.44%
+2018-08,Air India Express,1.28%
+2019-08,Air India Express,1.59%
+2022-08,Air India Express,1.30%
+2023-08,Air India Express,1.41%
+2024-08,Air India Express,1.64%
+2021-08,AirAsia India,0.05%
+2023-08,AirAsia India,0.00%
+2024-08,Akasa Air,0.13%
+2023-08,Alliance Air,0.01%
+2023-08,Alliance Air,0.00%
+2024-08,Alliance Air,0.01%
+2020-08,Blue Dart Aviation,0.00%
+2021-08,Blue Dart Aviation,0.00%
+2022-08,Blue Dart Aviation,0.00%
+2023-08,Blue Dart Aviation,0.00%
+2024-08,Blue Dart Aviation,0.00%
+2019-08,Go First,0.37%
+2021-08,Go First,0.00%
+2022-08,Go First,0.45%
+2022-08,Go First,0.10%
+2015-08,IndiGo,0.81%
+2016-08,IndiGo,0.68%
+2016-08,IndiGo,0.00%
+2017-08,IndiGo,1.15%
+2017-08,IndiGo,0.00%
+2018-08,IndiGo,1.24%
+2019-08,IndiGo,2.29%
+2020-08,IndiGo,0.11%
+2021-08,IndiGo,0.01%
+2022-08,IndiGo,2.96%
+2022-08,IndiGo,0.12%
+2023-08,IndiGo,3.34%
+2023-08,IndiGo,0.09%
+2024-08,IndiGo,3.57%
+2024-08,IndiGo,0.02%
+2022-08,India One Air,0.00%
+2023-08,India One Air,0.00%
+2015-08,Jet Airways,3.83%
+2016-08,Jet Airways,3.45%
+2017-08,Jet Airways,3.16%
+2018-08,Jet Airways,2.77%
+2020-08,Pawan Hans,0.00%
+2023-08,QuikJet Cargo,0.00%
+2024-08,QuikJet Cargo,0.00%
+2015-08,SpiceJet,0.53%
+2016-08,SpiceJet,0.64%
+2017-08,SpiceJet,0.71%
+2017-08,SpiceJet,0.00%
+2018-08,SpiceJet,0.66%
+2019-08,SpiceJet,0.98%
+2020-08,SpiceJet,0.12%
+2021-08,SpiceJet,0.00%
+2022-08,SpiceJet,0.64%
+2022-08,SpiceJet,0.00%
+2023-08,SpiceJet,0.47%
+2023-08,SpiceJet,0.00%
+2024-08,SpiceJet,0.32%
+2015-08,Total International,9.57%
+2016-08,Total International,8.61%
+2017-08,Total International,8.78%
+2018-08,Total International,7.96%
+2022-08,Total International,7.96%
+2023-08,Total International,8.09%
+2024-08,Total International,8.71%
+2019-08,Vistara,0.07%
+2020-08,Vistara,0.00%
+2021-08,Vistara,0.00%
+2022-08,Vistara,0.38%
+2023-08,Vistara,0.58%
+2023-08,Vistara,0.00%
+2024-08,Vistara,0.75%
+2015-09,Air India,0.15%
+2016-09,Air India,0.13%
+2017-09,Air India,0.07%
+2018-09,Air India,0.10%
+2015-09,Alliance Air,0.00%
+2016-09,Alliance Air,0.00%
+2017-09,Alliance Air,0.00%
+2015-09,Go First,0.00%
+2016-09,Go First,0.00%
+2017-09,Go First,0.00%
+2015-09,Jet Airways,0.03%
+2016-09,Jet Airways,0.03%
+2017-09,Jet Airways,0.08%
+2018-09,Jet Airways,0.03%
+2015-09,JetLite,0.00%
+2016-09,JetLite,0.00%
+2017-09,JetLite,0.00%
+2018-09,JetLite,0.00%
+2016-09,QuikJet Cargo,0.00%
+2017-09,QuikJet Cargo,0.00%
+2015-09,Total Domestic,0.18%
+2016-09,Total Domestic,0.16%
+2017-09,Total Domestic,0.14%
+2018-09,Total Domestic,0.13%
+2019-09,Total Domestic,0.15%
+2020-09,Total Domestic,0.15%
+2021-09,Total Domestic,0.32%
+2022-09,Total Domestic,0.22%
+2023-09,Total Domestic,0.10%
+2024-09,Total Domestic,0.16%
+2018-09,Vistara,0.00%
+2020-09,Air India,1.08%
+2021-09,Air India,1.41%
+2023-09,Air India,0.00%
+2020-09,Air India Express,1.23%
+2021-09,Air India Express,1.20%
+2021-09,Blue Dart Aviation,0.00%
+2022-09,Blue Dart Aviation,0.00%
+2020-09,Go First,0.23%
+2021-09,Go First,0.37%
+2020-09,IndiGo,1.14%
+2021-09,IndiGo,1.55%
+2022-09,IndiGo,0.00%
+2024-09,IndiGo,0.00%
+2015-09,Jet Airways,0.00%
+2016-09,Jet Airways,0.00%
+2017-09,Jet Airways,0.00%
+2018-09,Jet Airways,0.00%
+2024-09,QuikJet Cargo,0.00%
+2019-09,SpiceJet,0.01%
+2020-09,SpiceJet,0.49%
+2021-09,SpiceJet,0.38%
+2022-09,SpiceJet,0.01%
+2023-09,SpiceJet,0.00%
+2016-09,Total International,0.00%
+2017-09,Total International,0.00%
+2018-09,Total International,0.00%
+2020-09,Total International,4.40%
+2021-09,Total International,5.10%
+2022-09,Total International,0.02%
+2023-09,Total International,0.01%
+2024-09,Total International,0.00%
+2020-09,Vistara,0.23%
+2021-09,Vistara,0.19%
+2023-09,Vistara,0.00%
+2024-09,AIX Connect,1.70%
+2016-09,Air Carnival,0.03%
+2015-09,Air Costa,0.37%
+2016-09,Air Costa,0.26%
+2018-09,Air Deccan,0.00%
+2019-09,Air Heritage,0.00%
+2015-09,Air India,6.11%
+2016-09,Air India,5.66%
+2017-09,Air India,5.17%
+2018-09,Air India,4.38%
+2019-09,Air India,5.22%
+2020-09,Air India,3.67%
+2021-09,Air India,3.87%
+2022-09,Air India,3.86%
+2023-09,Air India,4.04%
+2024-09,Air India,4.61%
+2015-09,Air India Express,0.10%
+2016-09,Air India Express,0.05%
+2017-09,Air India Express,0.04%
+2018-09,Air India Express,0.06%
+2019-09,Air India Express,0.05%
+2020-09,Air India Express,0.01%
+2023-09,Air India Express,0.08%
+2024-09,Air India Express,1.64%
+2018-09,Air Odisha,0.00%
+2015-09,Air Pegasus,0.09%
+2016-09,Air Pegasus,0.00%
+2015-09,AirAsia India,0.77%
+2016-09,AirAsia India,0.95%
+2018-09,AirAsia India,1.86%
+2019-09,AirAsia India,2.91%
+2020-09,AirAsia India,2.71%
+2021-09,AirAsia India,2.67%
+2022-09,AirAsia India,2.50%
+2023-09,AirAsia India,2.80%
+2022-09,Akasa Air,0.38%
+2023-09,Akasa Air,1.78%
+2024-09,Akasa Air,1.82%
+2015-09,Alliance Air,0.18%
+2016-09,Alliance Air,0.27%
+2017-09,Alliance Air,0.47%
+2018-09,Alliance Air,0.49%
+2019-09,Alliance Air,0.54%
+2020-09,Alliance Air,0.57%
+2021-09,Alliance Air,0.59%
+2022-09,Alliance Air,0.49%
+2023-09,Alliance Air,0.41%
+2024-09,Alliance Air,0.32%
+2016-09,Blue Dart Aviation,0.00%
+2017-09,Blue Dart Aviation,0.00%
+2018-09,Blue Dart Aviation,0.00%
+2019-09,Blue Dart Aviation,0.00%
+2020-09,Blue Dart Aviation,0.00%
+2021-09,Blue Dart Aviation,0.00%
+2022-09,Blue Dart Aviation,0.00%
+2023-09,Blue Dart Aviation,0.00%
+2024-09,Blue Dart Aviation,0.00%
+2024-09,Fly91,0.05%
+2021-09,Flybig,0.04%
+2022-09,Flybig,0.07%
+2023-09,Flybig,0.08%
+2024-09,Flybig,0.01%
+2015-09,Go First,3.57%
+2016-09,Go First,3.48%
+2017-09,Go First,3.60%
+2018-09,Go First,3.70%
+2019-09,Go First,5.32%
+2020-09,Go First,3.04%
+2021-09,Go First,3.75%
+2022-09,Go First,3.32%
+2015-09,IndiGo,15.00%
+2016-09,IndiGo,16.69%
+2017-09,IndiGo,16.30%
+2018-09,IndiGo,18.39%
+2019-09,IndiGo,22.30%
+2020-09,IndiGo,26.14%
+2021-09,IndiGo,25.61%
+2022-09,IndiGo,24.32%
+2023-09,IndiGo,26.71%
+2024-09,IndiGo,26.07%
+2023-09,India One Air,0.01%
+2024-09,India One Air,0.01%
+2015-09,Jet Airways,7.85%
+2016-09,Jet Airways,6.72%
+2017-09,Jet Airways,6.49%
+2018-09,Jet Airways,5.99%
+2015-09,JetLite,1.14%
+2016-09,JetLite,1.00%
+2017-09,JetLite,0.98%
+2018-09,JetLite,0.68%
+2019-09,Pawan Hans,0.00%
+2020-09,Pawan Hans,0.00%
+2021-09,Pawan Hans,0.00%
+2016-09,QuikJet Cargo,0.00%
+2017-09,QuikJet Cargo,0.00%
+2023-09,QuikJet Cargo,0.00%
+2024-09,QuikJet Cargo,0.00%
+2015-09,SpiceJet,5.05%
+2016-09,SpiceJet,5.21%
+2017-09,SpiceJet,5.87%
+2018-09,SpiceJet,5.09%
+2019-09,SpiceJet,6.82%
+2020-09,SpiceJet,6.11%
+2021-09,SpiceJet,3.89%
+2022-09,SpiceJet,3.07%
+2023-09,SpiceJet,1.87%
+2024-09,SpiceJet,0.83%
+2019-09,Star Air,0.02%
+2020-09,Star Air,0.10%
+2021-09,Star Air,0.12%
+2022-09,Star Air,0.07%
+2023-09,Star Air,0.09%
+2024-09,Star Air,0.15%
+2015-09,Total Domestic,40.95%
+2016-09,Total Domestic,41.51%
+2017-09,Total Domestic,42.48%
+2018-09,Total Domestic,42.46%
+2019-09,Total Domestic,46.07%
+2020-09,Total Domestic,45.45%
+2021-09,Total Domestic,44.58%
+2022-09,Total Domestic,42.13%
+2023-09,Total Domestic,42.10%
+2024-09,Total Domestic,41.36%
+2015-09,TruJet,0.12%
+2016-09,TruJet,0.17%
+2017-09,TruJet,0.18%
+2018-09,TruJet,0.19%
+2019-09,TruJet,0.22%
+2020-09,TruJet,0.12%
+2021-09,TruJet,0.09%
+2015-09,Vistara,0.60%
+2016-09,Vistara,1.03%
+2017-09,Vistara,1.61%
+2018-09,Vistara,1.63%
+2019-09,Vistara,2.66%
+2020-09,Vistara,2.98%
+2021-09,Vistara,3.96%
+2022-09,Vistara,4.06%
+2023-09,Vistara,4.23%
+2024-09,Vistara,4.15%
+2017-09,Zoom Air,0.00%
+2018-09,Zoom Air,0.00%
+2024-09,AIX Connect,0.06%
+2015-09,Air India,2.63%
+2016-09,Air India,2.33%
+2017-09,Air India,2.23%
+2018-09,Air India,1.84%
+2019-09,Air India,2.23%
+2019-09,Air India,0.15%
+2020-09,Air India,0.01%
+2021-09,Air India,0.26%
+2022-09,Air India,2.18%
+2023-09,Air India,2.25%
+2024-09,Air India,2.31%
+2024-09,Air India,0.08%
+2015-09,Air India Express,1.34%
+2016-09,Air India Express,1.40%
+2017-09,Air India Express,1.36%
+2018-09,Air India Express,1.11%
+2019-09,Air India Express,1.47%
+2022-09,Air India Express,1.24%
+2023-09,Air India Express,1.26%
+2024-09,Air India Express,1.54%
+2021-09,AirAsia India,0.04%
+2022-09,AirAsia India,0.00%
+2023-09,AirAsia India,0.00%
+2024-09,Akasa Air,0.13%
+2023-09,Alliance Air,0.01%
+2023-09,Alliance Air,0.00%
+2024-09,Alliance Air,0.00%
+2024-09,Alliance Air,0.00%
+2019-09,Blue Dart Aviation,0.00%
+2020-09,Blue Dart Aviation,0.00%
+2021-09,Blue Dart Aviation,0.00%
+2022-09,Blue Dart Aviation,0.00%
+2023-09,Blue Dart Aviation,0.00%
+2024-09,Blue Dart Aviation,0.00%
+2019-09,Go First,0.35%
+2021-09,Go First,0.00%
+2022-09,Go First,0.43%
+2022-09,Go First,0.11%
+2015-09,IndiGo,0.78%
+2016-09,IndiGo,0.73%
+2016-09,IndiGo,0.00%
+2017-09,IndiGo,1.10%
+2017-09,IndiGo,0.00%
+2018-09,IndiGo,1.19%
+2019-09,IndiGo,2.38%
+2020-09,IndiGo,0.06%
+2021-09,IndiGo,0.01%
+2022-09,IndiGo,2.77%
+2022-09,IndiGo,0.11%
+2023-09,IndiGo,3.24%
+2023-09,IndiGo,0.09%
+2024-09,IndiGo,3.52%
+2024-09,IndiGo,0.02%
+2022-09,India One Air,0.00%
+2023-09,India One Air,0.00%
+2015-09,Jet Airways,3.58%
+2016-09,Jet Airways,3.18%
+2017-09,Jet Airways,2.90%
+2018-09,Jet Airways,2.61%
+2023-09,QuikJet Cargo,0.00%
+2024-09,QuikJet Cargo,0.00%
+2015-09,SpiceJet,0.55%
+2016-09,SpiceJet,0.70%
+2017-09,SpiceJet,0.66%
+2017-09,SpiceJet,0.00%
+2018-09,SpiceJet,0.66%
+2018-09,SpiceJet,0.00%
+2019-09,SpiceJet,1.00%
+2020-09,SpiceJet,0.08%
+2021-09,SpiceJet,0.00%
+2022-09,SpiceJet,0.64%
+2022-09,SpiceJet,0.01%
+2023-09,SpiceJet,0.46%
+2023-09,SpiceJet,0.00%
+2024-09,SpiceJet,0.30%
+2024-09,SpiceJet,0.00%
+2015-09,Total International,8.86%
+2016-09,Total International,8.33%
+2017-09,Total International,8.25%
+2018-09,Total International,7.41%
+2022-09,Total International,7.63%
+2023-09,Total International,7.80%
+2024-09,Total International,8.48%
+2019-09,Vistara,0.11%
+2021-09,Vistara,0.00%
+2022-09,Vistara,0.38%
+2022-09,Vistara,0.00%
+2023-09,Vistara,0.58%
+2023-09,Vistara,0.00%
+2024-09,Vistara,0.68%
+2024-09,Vistara,0.00%
+2015-10,Air India,0.15%
+2016-10,Air India,0.12%
+2017-10,Air India,0.06%
+2018-10,Air India,0.11%
+2015-10,Alliance Air,0.00%
+2016-10,Alliance Air,0.00%
+2017-10,Alliance Air,0.00%
+2015-10,Go First,0.00%
+2016-10,Go First,0.00%
+2017-10,Go First,0.00%
+2015-10,Jet Airways,0.04%
+2016-10,Jet Airways,0.03%
+2017-10,Jet Airways,0.07%
+2018-10,Jet Airways,0.04%
+2015-10,JetLite,0.00%
+2016-10,JetLite,0.00%
+2017-10,JetLite,0.00%
+2018-10,JetLite,0.00%
+2016-10,QuikJet Cargo,0.00%
+2017-10,QuikJet Cargo,0.00%
+2015-10,Total Domestic,0.18%
+2016-10,Total Domestic,0.16%
+2017-10,Total Domestic,0.13%
+2018-10,Total Domestic,0.14%
+2019-10,Total Domestic,0.14%
+2020-10,Total Domestic,0.07%
+2021-10,Total Domestic,0.33%
+2022-10,Total Domestic,0.21%
+2023-10,Total Domestic,0.11%
+2024-10,Total Domestic,0.10%
+2018-10,Vistara,0.00%
+2020-10,Air India,1.04%
+2021-10,Air India,1.49%
+2020-10,Air India Express,1.10%
+2021-10,Air India Express,1.23%
+2020-10,Blue Dart Aviation,0.00%
+2021-10,Blue Dart Aviation,0.00%
+2022-10,Blue Dart Aviation,0.00%
+2024-10,Blue Dart Aviation,0.00%
+2020-10,Go First,0.27%
+2021-10,Go First,0.39%
+2020-10,IndiGo,1.12%
+2021-10,IndiGo,1.55%
+2024-10,IndiGo,0.00%
+2015-10,Jet Airways,0.00%
+2016-10,Jet Airways,0.00%
+2017-10,Jet Airways,0.00%
+2018-10,Jet Airways,0.00%
+2020-10,SpiceJet,0.62%
+2021-10,SpiceJet,0.42%
+2022-10,SpiceJet,0.01%
+2023-10,SpiceJet,0.02%
+2024-10,SpiceJet,0.00%
+2016-10,Total International,0.00%
+2017-10,Total International,0.00%
+2018-10,Total International,0.00%
+2020-10,Total International,4.33%
+2021-10,Total International,5.29%
+2022-10,Total International,0.01%
+2023-10,Total International,0.02%
+2024-10,Total International,0.00%
+2020-10,Vistara,0.19%
+2021-10,Vistara,0.21%
+2016-10,Air Carnival,0.04%
+2015-10,Air Costa,0.34%
+2016-10,Air Costa,0.25%
+2018-10,Air Deccan,0.00%
+2019-10,Air Heritage,0.00%
+2015-10,Air India,5.99%
+2016-10,Air India,5.00%
+2017-10,Air India,5.00%
+2018-10,Air India,4.60%
+2019-10,Air India,5.08%
+2020-10,Air India,3.69%
+2021-10,Air India,4.34%
+2022-10,Air India,3.86%
+2023-10,Air India,4.05%
+2024-10,Air India,4.47%
+2015-10,Air India Express,0.07%
+2016-10,Air India Express,0.06%
+2017-10,Air India Express,0.06%
+2018-10,Air India Express,0.06%
+2019-10,Air India Express,0.05%
+2020-10,Air India Express,0.02%
+2021-10,Air India Express,0.00%
+2022-10,Air India Express,0.00%
+2023-10,Air India Express,0.35%
+2024-10,Air India Express,3.58%
+2018-10,Air Odisha,0.00%
+2015-10,Air Pegasus,0.11%
+2016-10,Air Pegasus,0.00%
+2015-10,AirAsia India,0.89%
+2016-10,AirAsia India,1.14%
+2018-10,AirAsia India,2.32%
+2019-10,AirAsia India,3.02%
+2020-10,AirAsia India,3.23%
+2021-10,AirAsia India,2.89%
+2022-10,AirAsia India,3.23%
+2023-10,AirAsia India,2.76%
+2022-10,Akasa Air,0.60%
+2023-10,Akasa Air,1.74%
+2024-10,Akasa Air,1.87%
+2015-10,Alliance Air,0.21%
+2016-10,Alliance Air,0.28%
+2017-10,Alliance Air,0.50%
+2018-10,Alliance Air,0.44%
+2019-10,Alliance Air,0.54%
+2020-10,Alliance Air,0.55%
+2021-10,Alliance Air,0.54%
+2022-10,Alliance Air,0.52%
+2023-10,Alliance Air,0.43%
+2024-10,Alliance Air,0.30%
+2016-10,Blue Dart Aviation,0.00%
+2017-10,Blue Dart Aviation,0.00%
+2018-10,Blue Dart Aviation,0.00%
+2019-10,Blue Dart Aviation,0.00%
+2020-10,Blue Dart Aviation,0.00%
+2021-10,Blue Dart Aviation,0.00%
+2022-10,Blue Dart Aviation,0.00%
+2023-10,Blue Dart Aviation,0.00%
+2024-10,Blue Dart Aviation,0.00%
+2024-10,Fly91,0.05%
+2021-10,Flybig,0.04%
+2022-10,Flybig,0.10%
+2023-10,Flybig,0.06%
+2024-10,Flybig,0.01%
+2015-10,Go First,3.51%
+2016-10,Go First,3.34%
+2017-10,Go First,3.80%
+2018-10,Go First,3.77%
+2019-10,Go First,5.18%
+2020-10,Go First,3.42%
+2021-10,Go First,4.47%
+2022-10,Go First,2.99%
+2015-10,IndiGo,15.27%
+2016-10,IndiGo,17.91%
+2017-10,IndiGo,17.01%
+2018-10,IndiGo,18.27%
+2019-10,IndiGo,21.94%
+2020-10,IndiGo,25.33%
+2021-10,IndiGo,24.29%
+2022-10,IndiGo,24.09%
+2023-10,IndiGo,26.23%
+2024-10,IndiGo,26.25%
+2022-10,India One Air,0.00%
+2023-10,India One Air,0.01%
+2024-10,India One Air,0.01%
+2015-10,Jet Airways,7.77%
+2016-10,Jet Airways,6.14%
+2017-10,Jet Airways,6.47%
+2018-10,Jet Airways,5.62%
+2015-10,JetLite,1.01%
+2016-10,JetLite,1.01%
+2017-10,JetLite,0.88%
+2018-10,JetLite,0.68%
+2019-10,Pawan Hans,0.00%
+2020-10,Pawan Hans,0.00%
+2021-10,Pawan Hans,0.00%
+2016-10,QuikJet Cargo,0.00%
+2017-10,QuikJet Cargo,0.00%
+2023-10,QuikJet Cargo,0.00%
+2024-10,QuikJet Cargo,0.00%
+2015-10,SpiceJet,5.30%
+2016-10,SpiceJet,5.42%
+2017-10,SpiceJet,5.61%
+2018-10,SpiceJet,4.97%
+2019-10,SpiceJet,7.53%
+2020-10,SpiceJet,6.10%
+2021-10,SpiceJet,4.09%
+2022-10,SpiceJet,3.08%
+2023-10,SpiceJet,2.08%
+2024-10,SpiceJet,1.02%
+2019-10,Star Air,0.02%
+2020-10,Star Air,0.08%
+2021-10,Star Air,0.10%
+2022-10,Star Air,0.06%
+2023-10,Star Air,0.12%
+2024-10,Star Air,0.17%
+2015-10,Total Domestic,41.33%
+2016-10,Total Domestic,41.90%
+2017-10,Total Domestic,42.87%
+2018-10,Total Domestic,42.50%
+2019-10,Total Domestic,46.12%
+2020-10,Total Domestic,45.59%
+2021-10,Total Domestic,44.39%
+2022-10,Total Domestic,42.44%
+2023-10,Total Domestic,41.92%
+2024-10,Total Domestic,41.50%
+2015-10,TruJet,0.13%
+2016-10,TruJet,0.19%
+2017-10,TruJet,0.15%
+2018-10,TruJet,0.20%
+2019-10,TruJet,0.24%
+2020-10,TruJet,0.25%
+2021-10,TruJet,0.09%
+2015-10,Vistara,0.72%
+2016-10,Vistara,1.13%
+2017-10,Vistara,1.52%
+2018-10,Vistara,1.57%
+2019-10,Vistara,2.51%
+2020-10,Vistara,2.94%
+2021-10,Vistara,3.52%
+2022-10,Vistara,3.90%
+2023-10,Vistara,4.08%
+2024-10,Vistara,3.78%
+2017-10,Zoom Air,0.01%
+2018-10,Zoom Air,0.00%
+2015-10,Air India,2.51%
+2016-10,Air India,2.21%
+2017-10,Air India,2.19%
+2018-10,Air India,2.00%
+2019-10,Air India,2.20%
+2019-10,Air India,0.13%
+2020-10,Air India,0.02%
+2021-10,Air India,0.27%
+2022-10,Air India,2.12%
+2023-10,Air India,2.31%
+2024-10,Air India,2.20%
+2024-10,Air India,0.03%
+2015-10,Air India Express,1.25%
+2016-10,Air India Express,1.26%
+2017-10,Air India Express,1.27%
+2018-10,Air India Express,1.12%
+2019-10,Air India Express,1.42%
+2022-10,Air India Express,1.19%
+2023-10,Air India Express,1.29%
+2023-10,Air India Express,0.01%
+2024-10,Air India Express,1.53%
+2024-10,Air India Express,0.06%
+2021-10,AirAsia India,0.04%
+2022-10,AirAsia India,0.00%
+2023-10,Akasa Air,0.00%
+2024-10,Akasa Air,0.12%
+2024-10,Akasa Air,0.00%
+2019-10,Alliance Air,0.00%
+2023-10,Alliance Air,0.01%
+2023-10,Alliance Air,0.00%
+2024-10,Alliance Air,0.00%
+2024-10,Alliance Air,0.00%
+2019-10,Blue Dart Aviation,0.00%
+2020-10,Blue Dart Aviation,0.00%
+2021-10,Blue Dart Aviation,0.00%
+2022-10,Blue Dart Aviation,0.00%
+2023-10,Blue Dart Aviation,0.00%
+2024-10,Blue Dart Aviation,0.00%
+2018-10,Go First,0.02%
+2019-10,Go First,0.36%
+2021-10,Go First,0.00%
+2022-10,Go First,0.42%
+2022-10,Go First,0.10%
+2015-10,IndiGo,0.76%
+2016-10,IndiGo,0.78%
+2016-10,IndiGo,0.00%
+2017-10,IndiGo,1.06%
+2017-10,IndiGo,0.00%
+2018-10,IndiGo,1.35%
+2019-10,IndiGo,2.43%
+2019-10,IndiGo,0.01%
+2020-10,IndiGo,0.04%
+2021-10,IndiGo,0.02%
+2022-10,IndiGo,2.63%
+2022-10,IndiGo,0.10%
+2023-10,IndiGo,3.25%
+2023-10,IndiGo,0.09%
+2024-10,IndiGo,3.57%
+2024-10,IndiGo,0.02%
+2022-10,India One Air,0.00%
+2023-10,India One Air,0.00%
+2015-10,Jet Airways,3.46%
+2016-10,Jet Airways,3.04%
+2017-10,Jet Airways,2.74%
+2018-10,Jet Airways,2.22%
+2023-10,QuikJet Cargo,0.00%
+2024-10,QuikJet Cargo,0.00%
+2015-10,SpiceJet,0.52%
+2016-10,SpiceJet,0.66%
+2017-10,SpiceJet,0.67%
+2017-10,SpiceJet,0.00%
+2018-10,SpiceJet,0.65%
+2018-10,SpiceJet,0.00%
+2019-10,SpiceJet,0.97%
+2019-10,SpiceJet,0.00%
+2020-10,SpiceJet,0.01%
+2021-10,SpiceJet,0.00%
+2022-10,SpiceJet,0.59%
+2022-10,SpiceJet,0.01%
+2023-10,SpiceJet,0.50%
+2023-10,SpiceJet,0.01%
+2024-10,SpiceJet,0.34%
+2024-10,SpiceJet,0.00%
+2015-10,Total International,8.49%
+2016-10,Total International,7.95%
+2017-10,Total International,7.93%
+2018-10,Total International,7.36%
+2022-10,Total International,7.34%
+2023-10,Total International,7.95%
+2024-10,Total International,8.40%
+2019-10,Vistara,0.10%
+2021-10,Vistara,0.00%
+2022-10,Vistara,0.40%
+2023-10,Vistara,0.60%
+2023-10,Vistara,0.00%
+2024-10,Vistara,0.65%
+2015-11,Air India,0.14%
+2016-11,Air India,0.07%
+2017-11,Air India,0.07%
+2018-11,Air India,0.11%
+2015-11,Alliance Air,0.00%
+2016-11,Alliance Air,0.00%
+2017-11,Alliance Air,0.00%
+2015-11,Go First,0.00%
+2016-11,Go First,0.00%
+2017-11,Go First,0.00%
+2015-11,Jet Airways,0.04%
+2016-11,Jet Airways,0.04%
+2017-11,Jet Airways,0.08%
+2018-11,Jet Airways,0.03%
+2015-11,JetLite,0.00%
+2016-11,JetLite,0.00%
+2017-11,JetLite,0.00%
+2018-11,JetLite,0.00%
+2016-11,QuikJet Cargo,0.00%
+2017-11,QuikJet Cargo,0.00%
+2015-11,Total Domestic,0.18%
+2016-11,Total Domestic,0.11%
+2017-11,Total Domestic,0.15%
+2018-11,Total Domestic,0.14%
+2019-11,Total Domestic,0.15%
+2020-11,Total Domestic,0.15%
+2021-11,Total Domestic,0.21%
+2022-11,Total Domestic,0.23%
+2023-11,Total Domestic,0.11%
+2024-11,Total Domestic,0.17%
+2017-11,Vistara,0.00%
+2018-11,Vistara,0.00%
+2020-11,Air India,1.00%
+2021-11,Air India,1.50%
+2023-11,Air India,0.00%
+2024-11,Air India,0.00%
+2020-11,Air India Express,1.15%
+2021-11,Air India Express,1.10%
+2020-11,Blue Dart Aviation,0.00%
+2021-11,Blue Dart Aviation,0.00%
+2022-11,Blue Dart Aviation,0.00%
+2024-11,Blue Dart Aviation,0.00%
+2020-11,Go First,0.28%
+2021-11,Go First,0.33%
+2020-11,IndiGo,1.03%
+2021-11,IndiGo,1.48%
+2024-11,IndiGo,0.00%
+2015-11,Jet Airways,0.00%
+2016-11,Jet Airways,0.00%
+2017-11,Jet Airways,0.00%
+2018-11,Jet Airways,0.00%
+2023-11,QuikJet Cargo,0.00%
+2020-11,SpiceJet,0.57%
+2021-11,SpiceJet,0.35%
+2022-11,SpiceJet,0.02%
+2023-11,SpiceJet,0.01%
+2024-11,SpiceJet,0.00%
+2016-11,Total International,0.00%
+2017-11,Total International,0.00%
+2018-11,Total International,0.00%
+2020-11,Total International,4.18%
+2021-11,Total International,4.98%
+2022-11,Total International,0.02%
+2023-11,Total International,0.01%
+2024-11,Total International,0.00%
+2020-11,Vistara,0.15%
+2021-11,Vistara,0.21%
+2016-11,Air Carnival,0.04%
+2015-11,Air Costa,0.26%
+2016-11,Air Costa,0.25%
+2018-11,Air Deccan,0.00%
+2019-11,Air Heritage,0.00%
+2015-11,Air India,6.34%
+2016-11,Air India,5.02%
+2017-11,Air India,5.21%
+2018-11,Air India,4.49%
+2019-11,Air India,4.91%
+2020-11,Air India,4.02%
+2021-11,Air India,4.05%
+2022-11,Air India,3.90%
+2023-11,Air India,3.89%
+2024-11,Air India,6.57%
+2015-11,Air India Express,0.06%
+2016-11,Air India Express,0.07%
+2017-11,Air India Express,0.04%
+2018-11,Air India Express,0.06%
+2019-11,Air India Express,0.06%
+2020-11,Air India Express,0.03%
+2021-11,Air India Express,0.03%
+2023-11,Air India Express,0.47%
+2024-11,Air India Express,3.57%
+2018-11,Air Odisha,0.00%
+2015-11,Air Pegasus,0.13%
+2016-11,Air Pegasus,0.00%
+2015-11,AirAsia India,0.92%
+2016-11,AirAsia India,1.18%
+2018-11,AirAsia India,2.23%
+2019-11,AirAsia India,3.13%
+2020-11,AirAsia India,3.03%
+2021-11,AirAsia India,2.67%
+2022-11,AirAsia India,3.24%
+2023-11,AirAsia India,2.73%
+2022-11,Akasa Air,0.76%
+2023-11,Akasa Air,1.75%
+2024-11,Akasa Air,1.96%
+2015-11,Alliance Air,0.20%
+2016-11,Alliance Air,0.28%
+2017-11,Alliance Air,0.51%
+2018-11,Alliance Air,0.47%
+2019-11,Alliance Air,0.48%
+2020-11,Alliance Air,0.60%
+2021-11,Alliance Air,0.51%
+2022-11,Alliance Air,0.53%
+2023-11,Alliance Air,0.40%
+2024-11,Alliance Air,0.28%
+2016-11,Blue Dart Aviation,0.00%
+2017-11,Blue Dart Aviation,0.00%
+2018-11,Blue Dart Aviation,0.00%
+2019-11,Blue Dart Aviation,0.00%
+2020-11,Blue Dart Aviation,0.00%
+2021-11,Blue Dart Aviation,0.00%
+2022-11,Blue Dart Aviation,0.00%
+2023-11,Blue Dart Aviation,0.00%
+2024-11,Blue Dart Aviation,0.00%
+2024-11,Fly91,0.06%
+2021-11,Flybig,0.04%
+2022-11,Flybig,0.09%
+2023-11,Flybig,0.01%
+2024-11,Flybig,0.00%
+2015-11,Go First,3.41%
+2016-11,Go First,3.38%
+2017-11,Go First,3.83%
+2018-11,Go First,3.69%
+2019-11,Go First,5.07%
+2020-11,Go First,4.16%
+2021-11,Go First,4.95%
+2022-11,Go First,3.19%
+2015-11,IndiGo,14.72%
+2016-11,IndiGo,17.72%
+2017-11,IndiGo,16.93%
+2018-11,IndiGo,18.10%
+2019-11,IndiGo,21.94%
+2020-11,IndiGo,24.65%
+2021-11,IndiGo,24.42%
+2022-11,IndiGo,23.83%
+2023-11,IndiGo,25.74%
+2024-11,IndiGo,26.49%
+2022-11,India One Air,0.00%
+2023-11,India One Air,0.01%
+2024-11,India One Air,0.01%
+2015-11,Jet Airways,7.68%
+2016-11,Jet Airways,6.23%
+2017-11,Jet Airways,6.47%
+2018-11,Jet Airways,5.34%
+2015-11,JetLite,1.14%
+2016-11,JetLite,1.02%
+2017-11,JetLite,0.99%
+2018-11,JetLite,0.63%
+2019-11,Pawan Hans,0.00%
+2020-11,Pawan Hans,0.00%
+2021-11,Pawan Hans,0.00%
+2016-11,QuikJet Cargo,0.00%
+2017-11,QuikJet Cargo,0.00%
+2023-11,QuikJet Cargo,0.00%
+2024-11,QuikJet Cargo,0.00%
+2015-11,SpiceJet,5.54%
+2016-11,SpiceJet,5.39%
+2017-11,SpiceJet,5.41%
+2018-11,SpiceJet,5.26%
+2019-11,SpiceJet,7.42%
+2020-11,SpiceJet,6.05%
+2021-11,SpiceJet,4.61%
+2022-11,SpiceJet,3.21%
+2023-11,SpiceJet,2.56%
+2024-11,SpiceJet,1.29%
+2019-11,Star Air,0.03%
+2020-11,Star Air,0.08%
+2021-11,Star Air,0.09%
+2022-11,Star Air,0.07%
+2023-11,Star Air,0.13%
+2024-11,Star Air,0.17%
+2015-11,Total Domestic,41.29%
+2016-11,Total Domestic,41.99%
+2017-11,Total Domestic,42.83%
+2018-11,Total Domestic,41.97%
+2019-11,Total Domestic,46.05%
+2020-11,Total Domestic,45.67%
+2021-11,Total Domestic,44.81%
+2022-11,Total Domestic,42.81%
+2023-11,Total Domestic,41.62%
+2024-11,Total Domestic,41.61%
+2015-11,TruJet,0.15%
+2016-11,TruJet,0.19%
+2017-11,TruJet,0.12%
+2018-11,TruJet,0.19%
+2019-11,TruJet,0.29%
+2020-11,TruJet,0.20%
+2021-11,TruJet,0.05%
+2015-11,Vistara,0.77%
+2016-11,Vistara,1.22%
+2017-11,Vistara,1.53%
+2018-11,Vistara,1.50%
+2019-11,Vistara,2.71%
+2020-11,Vistara,2.86%
+2021-11,Vistara,3.39%
+2022-11,Vistara,3.99%
+2023-11,Vistara,3.91%
+2024-11,Vistara,1.21%
+2017-11,Zoom Air,0.01%
+2018-11,Zoom Air,0.00%
+2015-11,Air India,2.66%
+2016-11,Air India,2.21%
+2017-11,Air India,2.17%
+2018-11,Air India,2.10%
+2019-11,Air India,2.23%
+2019-11,Air India,0.13%
+2020-11,Air India,0.08%
+2021-11,Air India,0.15%
+2022-11,Air India,2.20%
+2022-11,Air India,0.00%
+2023-11,Air India,2.35%
+2023-11,Air India,0.00%
+2024-11,Air India,2.49%
+2024-11,Air India,0.09%
+2015-11,Air India Express,1.14%
+2016-11,Air India Express,1.23%
+2017-11,Air India Express,1.22%
+2018-11,Air India Express,1.16%
+2019-11,Air India Express,1.39%
+2023-11,Air India Express,1.33%
+2024-11,Air India Express,1.49%
+2024-11,Air India Express,0.06%
+2020-11,AirAsia India,0.01%
+2021-11,AirAsia India,0.03%
+2022-11,AirAsia India,0.00%
+2023-11,AirAsia India,0.00%
+2023-11,Akasa Air,0.00%
+2024-11,Akasa Air,0.12%
+2024-11,Akasa Air,0.00%
+2019-11,Alliance Air,0.00%
+2023-11,Alliance Air,0.01%
+2023-11,Alliance Air,0.00%
+2024-11,Alliance Air,0.00%
+2024-11,Alliance Air,0.00%
+2019-11,Blue Dart Aviation,0.00%
+2020-11,Blue Dart Aviation,0.00%
+2021-11,Blue Dart Aviation,0.00%
+2022-11,Blue Dart Aviation,0.00%
+2023-11,Blue Dart Aviation,0.00%
+2024-11,Blue Dart Aviation,0.00%
+2024-11,Fly91,0.00%
+2018-11,Go First,0.05%
+2019-11,Go First,0.39%
+2019-11,Go First,0.00%
+2021-11,Go First,0.00%
+2022-11,Go First,0.38%
+2022-11,Go First,0.09%
+2015-11,IndiGo,0.74%
+2016-11,IndiGo,0.77%
+2016-11,IndiGo,0.00%
+2017-11,IndiGo,1.03%
+2017-11,IndiGo,0.00%
+2018-11,IndiGo,1.53%
+2019-11,IndiGo,2.48%
+2019-11,IndiGo,0.02%
+2020-11,IndiGo,0.05%
+2021-11,IndiGo,0.01%
+2022-11,IndiGo,2.75%
+2022-11,IndiGo,0.11%
+2023-11,IndiGo,3.42%
+2023-11,IndiGo,0.09%
+2024-11,IndiGo,3.50%
+2024-11,IndiGo,0.02%
+2022-11,India One Air,0.00%
+2023-11,India One Air,0.00%
+2015-11,Jet Airways,3.41%
+2016-11,Jet Airways,3.04%
+2017-11,Jet Airways,2.85%
+2018-11,Jet Airways,2.34%
+2023-11,QuikJet Cargo,0.00%
+2024-11,QuikJet Cargo,0.00%
+2015-11,SpiceJet,0.57%
+2016-11,SpiceJet,0.64%
+2017-11,SpiceJet,0.65%
+2017-11,SpiceJet,0.00%
+2018-11,SpiceJet,0.69%
+2018-11,SpiceJet,0.00%
+2019-11,SpiceJet,0.97%
+2019-11,SpiceJet,0.00%
+2020-11,SpiceJet,0.01%
+2021-11,SpiceJet,0.02%
+2022-11,SpiceJet,0.60%
+2022-11,SpiceJet,0.02%
+2023-11,SpiceJet,0.50%
+2023-11,SpiceJet,0.01%
+2024-11,SpiceJet,0.38%
+2024-11,SpiceJet,0.01%
+2015-11,Total International,8.53%
+2016-11,Total International,7.89%
+2017-11,Total International,7.92%
+2018-11,Total International,7.88%
+2022-11,Total International,7.53%
+2023-11,Total International,8.26%
+2024-11,Total International,8.21%
+2019-11,Vistara,0.12%
+2020-11,Vistara,0.00%
+2021-11,Vistara,0.00%
+2022-11,Vistara,0.42%
+2022-11,Vistara,0.00%
+2023-11,Vistara,0.66%
+2023-11,Vistara,0.01%
+2024-11,Vistara,0.23%
+2015-12,Air India,0.13%
+2016-12,Air India,0.11%
+2017-12,Air India,0.06%
+2018-12,Air India,0.11%
+2015-12,Alliance Air,0.00%
+2016-12,Alliance Air,0.00%
+2017-12,Alliance Air,0.00%
+2015-12,Go First,0.00%
+2016-12,Go First,0.00%
+2017-12,Go First,0.00%
+2015-12,Jet Airways,0.06%
+2016-12,Jet Airways,0.05%
+2017-12,Jet Airways,0.07%
+2018-12,Jet Airways,0.04%
+2015-12,JetLite,0.00%
+2016-12,JetLite,0.00%
+2017-12,JetLite,0.00%
+2018-12,JetLite,0.00%
+2016-12,QuikJet Cargo,0.00%
+2017-12,QuikJet Cargo,0.00%
+2015-12,Total Domestic,0.19%
+2016-12,Total Domestic,0.16%
+2017-12,Total Domestic,0.14%
+2018-12,Total Domestic,0.16%
+2019-12,Total Domestic,0.15%
+2020-12,Total Domestic,0.22%
+2021-12,Total Domestic,0.22%
+2022-12,Total Domestic,0.22%
+2023-12,Total Domestic,0.13%
+2024-12,Total Domestic,0.16%
+2017-12,Vistara,0.00%
+2018-12,Vistara,0.00%
+2020-12,Air India,1.04%
+2021-12,Air India,1.49%
+2023-12,Air India,0.00%
+2020-12,Air India Express,1.25%
+2021-12,Air India Express,1.22%
+2020-12,Blue Dart Aviation,0.00%
+2021-12,Blue Dart Aviation,0.00%
+2024-12,Blue Dart Aviation,0.00%
+2020-12,Go First,0.29%
+2021-12,Go First,0.40%
+2022-12,Go First,0.00%
+2020-12,IndiGo,1.08%
+2021-12,IndiGo,1.72%
+2024-12,IndiGo,0.00%
+2015-12,Jet Airways,0.00%
+2016-12,Jet Airways,0.00%
+2017-12,Jet Airways,0.01%
+2018-12,Jet Airways,0.00%
+2024-12,QuikJet Cargo,0.00%
+2018-12,SpiceJet,0.00%
+2019-12,SpiceJet,0.00%
+2020-12,SpiceJet,0.53%
+2021-12,SpiceJet,0.42%
+2022-12,SpiceJet,0.02%
+2023-12,SpiceJet,0.00%
+2016-12,Total International,0.00%
+2017-12,Total International,0.01%
+2018-12,Total International,0.00%
+2020-12,Total International,4.38%
+2021-12,Total International,5.51%
+2022-12,Total International,0.02%
+2023-12,Total International,0.00%
+2024-12,Total International,0.00%
+2020-12,Vistara,0.19%
+2021-12,Vistara,0.26%
+2022-12,Vistara,0.00%
+2016-12,Air Carnival,0.04%
+2015-12,Air Costa,0.30%
+2016-12,Air Costa,0.22%
+2017-12,Air Deccan,0.00%
+2018-12,Air Deccan,0.00%
+2019-12,Air Heritage,0.00%
+2015-12,Air India,6.48%
+2016-12,Air India,5.41%
+2017-12,Air India,4.91%
+2018-12,Air India,4.53%
+2019-12,Air India,4.76%
+2020-12,Air India,3.90%
+2021-12,Air India,3.71%
+2022-12,Air India,3.93%
+2023-12,Air India,4.03%
+2024-12,Air India,7.22%
+2015-12,Air India Express,0.06%
+2016-12,Air India Express,0.04%
+2017-12,Air India Express,0.06%
+2018-12,Air India Express,0.06%
+2019-12,Air India Express,0.06%
+2020-12,Air India Express,0.02%
+2021-12,Air India Express,0.03%
+2023-12,Air India Express,0.62%
+2024-12,Air India Express,3.72%
+2018-12,Air Odisha,0.00%
+2015-12,Air Pegasus,0.11%
+2016-12,Air Pegasus,0.00%
+2015-12,AirAsia India,0.97%
+2016-12,AirAsia India,1.20%
+2018-12,AirAsia India,2.22%
+2019-12,AirAsia India,3.21%
+2020-12,AirAsia India,3.12%
+2021-12,AirAsia India,2.78%
+2022-12,AirAsia India,3.26%
+2023-12,AirAsia India,2.56%
+2022-12,Akasa Air,0.98%
+2023-12,Akasa Air,1.81%
+2024-12,Akasa Air,1.90%
+2015-12,Alliance Air,0.18%
+2016-12,Alliance Air,0.23%
+2017-12,Alliance Air,0.53%
+2018-12,Alliance Air,0.47%
+2019-12,Alliance Air,0.51%
+2020-12,Alliance Air,0.62%
+2021-12,Alliance Air,0.50%
+2022-12,Alliance Air,0.57%
+2023-12,Alliance Air,0.39%
+2024-12,Alliance Air,0.28%
+2016-12,Blue Dart Aviation,0.00%
+2017-12,Blue Dart Aviation,0.00%
+2018-12,Blue Dart Aviation,0.00%
+2019-12,Blue Dart Aviation,0.00%
+2020-12,Blue Dart Aviation,0.00%
+2021-12,Blue Dart Aviation,0.00%
+2022-12,Blue Dart Aviation,0.00%
+2023-12,Blue Dart Aviation,0.00%
+2024-12,Blue Dart Aviation,0.00%
+2024-12,Fly91,0.07%
+2021-12,Flybig,0.04%
+2022-12,Flybig,0.10%
+2023-12,Flybig,0.00%
+2024-12,Flybig,0.00%
+2015-12,Go First,3.40%
+2016-12,Go First,3.39%
+2017-12,Go First,4.09%
+2018-12,Go First,3.67%
+2019-12,Go First,4.69%
+2020-12,Go First,4.07%
+2021-12,Go First,4.74%
+2022-12,Go First,3.19%
+2015-12,IndiGo,14.61%
+2016-12,IndiGo,16.72%
+2017-12,IndiGo,16.76%
+2018-12,IndiGo,18.07%
+2019-12,IndiGo,21.80%
+2020-12,IndiGo,24.55%
+2021-12,IndiGo,24.37%
+2022-12,IndiGo,23.47%
+2023-12,IndiGo,25.64%
+2024-12,IndiGo,26.66%
+2022-12,India One Air,0.00%
+2023-12,India One Air,0.01%
+2024-12,India One Air,0.01%
+2015-12,Jet Airways,7.42%
+2016-12,Jet Airways,6.30%
+2017-12,Jet Airways,6.12%
+2018-12,Jet Airways,5.07%
+2015-12,JetLite,1.16%
+2016-12,JetLite,1.07%
+2017-12,JetLite,0.97%
+2018-12,JetLite,0.71%
+2019-12,Pawan Hans,0.00%
+2020-12,Pawan Hans,0.00%
+2021-12,Pawan Hans,0.00%
+2016-12,QuikJet Cargo,0.00%
+2017-12,QuikJet Cargo,0.00%
+2023-12,QuikJet Cargo,0.00%
+2024-12,QuikJet Cargo,0.00%
+2015-12,SpiceJet,5.20%
+2016-12,SpiceJet,5.26%
+2017-12,SpiceJet,5.40%
+2018-12,SpiceJet,5.16%
+2019-12,SpiceJet,7.55%
+2020-12,SpiceJet,5.91%
+2021-12,SpiceJet,4.57%
+2022-12,SpiceJet,3.23%
+2023-12,SpiceJet,2.32%
+2024-12,SpiceJet,1.36%
+2019-12,Star Air,0.04%
+2020-12,Star Air,0.08%
+2021-12,Star Air,0.08%
+2022-12,Star Air,0.07%
+2023-12,Star Air,0.15%
+2024-12,Star Air,0.17%
+2015-12,Total Domestic,40.86%
+2016-12,Total Domestic,41.36%
+2017-12,Total Domestic,42.41%
+2018-12,Total Domestic,41.72%
+2019-12,Total Domestic,45.73%
+2020-12,Total Domestic,45.39%
+2021-12,Total Domestic,44.28%
+2022-12,Total Domestic,42.71%
+2023-12,Total Domestic,41.50%
+2024-12,Total Domestic,41.38%
+2015-12,TruJet,0.15%
+2016-12,TruJet,0.13%
+2017-12,TruJet,0.11%
+2018-12,TruJet,0.19%
+2019-12,TruJet,0.31%
+2020-12,TruJet,0.26%
+2021-12,TruJet,0.04%
+2015-12,Vistara,0.84%
+2016-12,Vistara,1.32%
+2017-12,Vistara,1.56%
+2018-12,Vistara,1.58%
+2019-12,Vistara,2.79%
+2020-12,Vistara,2.87%
+2021-12,Vistara,3.42%
+2022-12,Vistara,3.93%
+2023-12,Vistara,3.96%
+2017-12,Zoom Air,0.01%
+2018-12,Zoom Air,0.00%
+2015-12,Air India,2.86%
+2016-12,Air India,2.28%
+2017-12,Air India,2.27%
+2018-12,Air India,2.03%
+2019-12,Air India,2.40%
+2019-12,Air India,0.12%
+2020-12,Air India,0.13%
+2021-12,Air India,0.15%
+2022-12,Air India,2.15%
+2023-12,Air India,2.41%
+2023-12,Air India,0.03%
+2024-12,Air India,2.74%
+2024-12,Air India,0.07%
+2015-12,Air India Express,1.20%
+2016-12,Air India Express,1.37%
+2017-12,Air India Express,1.28%
+2018-12,Air India Express,1.30%
+2019-12,Air India Express,1.53%
+2023-12,Air India Express,1.30%
+2024-12,Air India Express,1.52%
+2024-12,Air India Express,0.06%
+2020-12,AirAsia India,0.03%
+2021-12,AirAsia India,0.03%
+2022-12,AirAsia India,0.00%
+2023-12,AirAsia India,0.00%
+2023-12,Akasa Air,0.00%
+2024-12,Akasa Air,0.13%
+2024-12,Akasa Air,0.01%
+2019-12,Alliance Air,0.00%
+2022-12,Alliance Air,0.00%
+2023-12,Alliance Air,0.01%
+2023-12,Alliance Air,0.00%
+2019-12,Blue Dart Aviation,0.00%
+2020-12,Blue Dart Aviation,0.00%
+2021-12,Blue Dart Aviation,0.00%
+2022-12,Blue Dart Aviation,0.00%
+2023-12,Blue Dart Aviation,0.00%
+2024-12,Blue Dart Aviation,0.00%
+2024-12,Fly91,0.00%
+2018-12,Go First,0.08%
+2018-12,Go First,0.00%
+2019-12,Go First,0.45%
+2019-12,Go First,0.00%
+2020-12,Go First,0.00%
+2021-12,Go First,0.01%
+2022-12,Go First,0.45%
+2022-12,Go First,0.09%
+2015-12,IndiGo,0.76%
+2015-12,IndiGo,0.00%
+2016-12,IndiGo,0.81%
+2016-12,IndiGo,0.00%
+2017-12,IndiGo,1.10%
+2017-12,IndiGo,0.00%
+2018-12,IndiGo,1.63%
+2019-12,IndiGo,2.73%
+2019-12,IndiGo,0.02%
+2020-12,IndiGo,0.05%
+2021-12,IndiGo,0.01%
+2022-12,IndiGo,2.73%
+2022-12,IndiGo,0.10%
+2023-12,IndiGo,3.38%
+2023-12,IndiGo,0.09%
+2024-12,IndiGo,3.70%
+2024-12,IndiGo,0.02%
+2022-12,India One Air,0.00%
+2023-12,India One Air,0.00%
+2015-12,Jet Airways,3.48%
+2016-12,Jet Airways,3.36%
+2017-12,Jet Airways,3.05%
+2018-12,Jet Airways,2.37%
+2023-12,QuikJet Cargo,0.00%
+2024-12,QuikJet Cargo,0.00%
+2015-12,SpiceJet,0.65%
+2016-12,SpiceJet,0.66%
+2017-12,SpiceJet,0.68%
+2017-12,SpiceJet,0.00%
+2018-12,SpiceJet,0.72%
+2018-12,SpiceJet,0.01%
+2019-12,SpiceJet,1.02%
+2019-12,SpiceJet,0.00%
+2020-12,SpiceJet,0.01%
+2021-12,SpiceJet,0.02%
+2022-12,SpiceJet,0.62%
+2022-12,SpiceJet,0.02%
+2023-12,SpiceJet,0.53%
+2023-12,SpiceJet,0.01%
+2024-12,SpiceJet,0.37%
+2024-12,SpiceJet,0.01%
+2015-12,Total International,8.95%
+2016-12,Total International,8.49%
+2017-12,Total International,8.38%
+2018-12,Total International,8.12%
+2022-12,Total International,7.64%
+2023-12,Total International,8.37%
+2024-12,Total International,8.46%
+2019-12,Vistara,0.13%
+2020-12,Vistara,0.00%
+2022-12,Vistara,0.49%
+2022-12,Vistara,0.00%
+2023-12,Vistara,0.74%
+2023-12,Vistara,0.00%

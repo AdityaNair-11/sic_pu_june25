@@ -6,4 +6,4 @@ for i in range(0,n):
             if Array[j] < compare_orange :
                 Array[i] ,Array[j] = Array[j],Array[i]
                 j += 1
-print(Array)
+print(Array[::-1])
