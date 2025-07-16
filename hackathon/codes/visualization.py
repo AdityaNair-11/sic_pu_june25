@@ -47,17 +47,17 @@ import matplotlib.pyplot as plt
 #used for (2.Identifying the Busiest months of every Routes)
 def plot_busiest_months(df):
     # Limit to first 100 entries
-    df = df.head(100)
+    df = df.head(50)
     
     sectors = df["Sector"]
     passengers = df["Passengers"]
     months = df["Month"].dt.strftime("%b %Y")
 
     # Adjust figure size to avoid label overlapping
-    plt.figure(figsize=(16, 6))
+    plt.figure(figsize=(13, 6))
     bars = plt.bar(sectors, passengers, color="skyblue")
     
-    plt.title("Busiest Month per Route (Sample of 100 rows)")
+    plt.title("Busiest Month per Route (Sample of 50 rows)")
     plt.xlabel("Route")
     plt.ylabel("Passenger Count")
     plt.xticks(rotation=90, ha='center', fontsize=7)  # Small font for readability
