@@ -1,5 +1,5 @@
 from analysis import FlightDataAnalyzer, IndiGoAnalyzer
-from visualization import plot_top_sectors, plot_growing_sectors, plot_market_share
+from visualization import (plot_top_sectors, plot_growing_sectors, plot_market_share, plot_busiest_months)
 
 def main():
     # Load flight data
@@ -12,6 +12,10 @@ def main():
     # Top 5 growing sectors
     growing = flight.get_growing_sectors()
     plot_growing_sectors(flight.df, growing)
+
+    # Busiest month per route
+    busiest_df = flight.get_busiest_months()
+    plot_busiest_months(busiest_df)
 
     # IndiGo analysis
     indigo = IndiGoAnalyzer("datasets/market_share.csv")

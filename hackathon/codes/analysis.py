@@ -28,6 +28,12 @@ class FlightDataAnalyzer:
             print(f"{s[0]} - {round(s[1], 2)}%")
         return [s[0] for s in growth[:5]]
 
+    def get_busiest_months(self):
+        busiest = self.df.loc[self.df.groupby("Sector")["Passengers"].idxmax()]
+        print("Busiest month for each route:")
+        print(busiest[["Sector", "Month", "Passengers"]])
+        return busiest
+
 class IndiGoAnalyzer:
     def __init__(self, filepath):
         df = pd.read_csv(filepath)
@@ -37,4 +43,3 @@ class IndiGoAnalyzer:
     def print_recent_share(self):
         print("Recent IndiGo market share:")
         print(self.df[["Month", "Market_Share"]].tail(10))
-
