@@ -12,7 +12,7 @@ def main():
     indigo = IndiGoAnalyzer("datasets/market_share.csv")
 
     while True:
-        print("\n--- Flight Analysis CLI ---")
+        print("\n--- Flight Analysis ---")
         print("1. Top 3 Routes with Most Passengers")
         print("2. Top 5 Growing Routes")
         print("3. Busiest Month per Route")
